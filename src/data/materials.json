@@ -1,0 +1,4355 @@
+[
+  {
+    "id": "j1_001",
+    "level": "中1",
+    "title": "My Busy Monday",
+    "genre": "学校生活",
+    "passage": "Ken is a junior high school student. His favorite subject is English. He has English on Monday morning.\n\nAfter lunch, Ken plays soccer with his friends. At four, he plays the guitar in the music room.\n\nKen is busy on Mondays, but he likes the day. He can study, play sports, and enjoy music at school.",
+    "translation": "ケンは中学生です。いちばん好きな教科は英語です。月曜日の朝に英語の授業があります。\n\n昼食後、ケンは友達とサッカーをします。4時に音楽室へ行き、そこでギターを弾きます。\n\nケンは月曜日は忙しいですが、その日が好きです。学校で勉強し、スポーツをし、音楽を楽しめます。",
+    "notes": [
+      {
+        "word": "favorite",
+        "meaning": "いちばん好きな"
+      },
+      {
+        "word": "music room",
+        "meaning": "音楽室"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "学校生活",
+        "部活動",
+        "将来の夢",
+        "異文化理解"
+      ],
+      "answer": "学校生活",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「favorite」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "ケンが月曜日に学校でいろいろな活動を楽しんでいること",
+        "ミカが仲間と協力して初めての試合に出ようとしていること",
+        "祖父の店を手伝うソウタがパン職人を目指していること",
+        "二人の生徒が互いの国の食文化を教え合うこと"
+      ],
+      "answer": "ケンが月曜日に学校でいろいろな活動を楽しんでいること",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "好きな教科、昼食後の活動、月曜日への気持ち",
+        "チームの練習、初試合の予定、協力する気持ち",
+        "祖父の店、土曜日の手伝い、将来の夢",
+        "アニカの昼食、食べ方の紹介、次の文化交流"
+      ],
+      "answer": "好きな教科、昼食後の活動、月曜日への気持ち",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "What is Ken's favorite subject?",
+        "questionKeywords": [
+          "ken's",
+          "favorite",
+          "subject"
+        ],
+        "answerPatterns": [
+          "english",
+          "favorite",
+          "favorite subject",
+          "subject"
+        ],
+        "hints": [
+          "質問文の「ken's / favorite / subject」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "His favorite subject is English.",
+        "translation": "ケンのいちばん好きな教科は英語です。"
+      },
+      {
+        "question": "Where does Ken play the guitar?",
+        "questionKeywords": [
+          "ken",
+          "play",
+          "guitar"
+        ],
+        "answerPatterns": [
+          "in the music room",
+          "ken",
+          "lunch ken",
+          "ken plays",
+          "plays",
+          "plays soccer",
+          "guitar",
+          "music"
+        ],
+        "hints": [
+          "質問文の「ken / play / guitar」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "At four, he plays the guitar in the music room.",
+        "translation": "ケンは音楽室でギターを弾きます。"
+      },
+      {
+        "question": "Why does Ken like Mondays?",
+        "questionKeywords": [
+          "ken",
+          "like",
+          "mondays"
+        ],
+        "answerPatterns": [
+          "ken",
+          "mondays",
+          "enjoy",
+          "enjoy music"
+        ],
+        "hints": [
+          "質問文の「ken / like / mondays」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "He can study, play sports, and enjoy music at school.",
+        "translation": "学校で多くのことを楽しめるからです。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "What is Ken's favorite subject?",
+        "choices": [
+          "English",
+          "Math",
+          "Music",
+          "Science"
+        ],
+        "answer": "English",
+        "evidence": "His favorite subject is English.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「His favorite subject is English.」から、答えは「English」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Where does Ken play the guitar?",
+        "choices": [
+          "in the music room",
+          "in the gym",
+          "in the library",
+          "in his classroom"
+        ],
+        "answer": "in the music room",
+        "evidence": "At four, he plays the guitar in the music room.",
+        "explanation": "この問題は場所を尋ねています。本文の「At four, he plays the guitar in the music room.」から、答えは「in the music room」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Why does Ken like Mondays?",
+        "choices": [
+          "He can enjoy many things at school.",
+          "He only studies English.",
+          "He can go home early.",
+          "He has no classes in the afternoon."
+        ],
+        "answer": "He can enjoy many things at school.",
+        "evidence": "He can study, play sports, and enjoy music at school.",
+        "explanation": "この問題は理由を尋ねています。本文の「He can study, play sports, and enjoy music at school.」から、答えは「He can enjoy many things at school.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j1_002",
+    "level": "中1",
+    "title": "Our First Basketball Game",
+    "genre": "部活動",
+    "passage": "Mika is on the school basketball team. The team practices on Tuesday and Friday. Mika is short, but she can run fast.\n\nThis Saturday, the team has its first game. Mika's mother and brother will watch the game. Mika wants to score many points.\n\nHer coach says, “Pass the ball and play together.” Mika says yes. She wants to help her team.",
+    "translation": "ミカは学校のバスケットボール部に入っています。チームは火曜日と金曜日に練習します。ミカは背が低いですが、速く走れます。\n\n今週の土曜日、チームは初めての試合をします。ミカの母と弟が試合を見ます。ミカはたくさん得点したいと思っています。\n\nコーチは「ボールをパスして、一緒にプレーしなさい」と言います。ミカは返事をし、チームを助けたいと思います。",
+    "notes": [
+      {
+        "word": "team",
+        "meaning": "チーム"
+      },
+      {
+        "word": "point",
+        "meaning": "得点"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "部活動",
+        "学校生活",
+        "将来の夢",
+        "異文化理解"
+      ],
+      "answer": "部活動",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「team」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "ミカが仲間と協力して初めての試合に出ようとしていること",
+        "部長のハルが指示するだけでなく仲間の意見を聞く大切さを学んだこと",
+        "ケンが月曜日に学校でいろいろな活動を楽しんでいること",
+        "祖父の店を手伝うソウタがパン職人を目指していること"
+      ],
+      "answer": "ミカが仲間と協力して初めての試合に出ようとしていること",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "チームの練習、初試合の予定、協力する気持ち",
+        "部長としての問題、ミーティング開始、チームの改善",
+        "好きな教科、昼食後の活動、月曜日への気持ち",
+        "祖父の店、土曜日の手伝い、将来の夢"
+      ],
+      "answer": "チームの練習、初試合の予定、協力する気持ち",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "When does the team practice?",
+        "questionKeywords": [
+          "team",
+          "practice"
+        ],
+        "answerPatterns": [
+          "on tuesday and friday",
+          "basketball team",
+          "team practices",
+          "tuesday",
+          "friday"
+        ],
+        "hints": [
+          "質問文の「team / practice」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The team practices on Tuesday and Friday.",
+        "translation": "チームは火曜日と金曜日に練習します。"
+      },
+      {
+        "question": "Who will watch the game?",
+        "questionKeywords": [
+          "watch",
+          "game"
+        ],
+        "answerPatterns": [
+          "mikas mother and brother",
+          "game",
+          "mika's",
+          "mika's mother",
+          "mother",
+          "brother",
+          "watch"
+        ],
+        "hints": [
+          "質問文の「watch / game」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Mika's mother and brother will watch the game.",
+        "translation": "ミカの母と弟が試合を見ます。"
+      },
+      {
+        "question": "What does the coach say?",
+        "questionKeywords": [
+          "coach",
+          "say"
+        ],
+        "answerPatterns": [
+          "pass the ball and play together",
+          "coach",
+          "coach says",
+          "says pass",
+          "pass",
+          "ball",
+          "play",
+          "play together"
+        ],
+        "hints": [
+          "質問文の「coach / say」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Her coach says, “Pass the ball and play together.”",
+        "translation": "ボールをパスし、一緒にプレーするよう言います。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "When does the team practice?",
+        "choices": [
+          "on Tuesday and Friday",
+          "every Monday and Thursday",
+          "every Wednesday and Friday",
+          "every Saturday and Sunday"
+        ],
+        "answer": "on Tuesday and Friday",
+        "evidence": "The team practices on Tuesday and Friday.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「The team practices on Tuesday and Friday.」から、答えは「on Tuesday and Friday」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Who will watch the game?",
+        "choices": [
+          "Mika's mother and brother",
+          "Mika's father and sister",
+          "Mika's coach and brother",
+          "Mika's mother and coach"
+        ],
+        "answer": "Mika's mother and brother",
+        "evidence": "Mika's mother and brother will watch the game.",
+        "explanation": "この問題は人物を尋ねています。本文の「Mika's mother and brother will watch the game.」から、答えは「Mika's mother and brother」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What does the coach say?",
+        "choices": [
+          "pass the ball and play together",
+          "make many points alone",
+          "run faster than everyone",
+          "practice only on Saturday"
+        ],
+        "answer": "pass the ball and play together",
+        "evidence": "Her coach says, “Pass the ball and play together.”",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Her coach says, “Pass the ball and play together.”」から、答えは「pass the ball and play together」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j1_003",
+    "level": "中1",
+    "title": "Sota's Saturday Job",
+    "genre": "将来の夢",
+    "passage": "Sota loves bread. His grandfather has a small bread shop near the station. Many people come to the shop in the morning.\n\nSota helps there every Saturday. He puts bread in bags. He also cleans the tables. His grandfather makes apple bread with him.\n\nSota wants to be a baker. He wants to make good bread for many people.",
+    "translation": "ソウタはパンが大好きです。祖父は駅の近くに小さなパン屋を持っています。朝には多くの人が店に来ます。\n\nソウタは毎週土曜日にそこで手伝います。パンを袋に入れ、テーブルも掃除します。祖父はソウタと一緒にアップルパンを作ります。\n\nソウタはパン職人になりたいと思っています。多くの人のためにおいしいパンを作りたいのです。",
+    "notes": [
+      {
+        "word": "bread shop",
+        "meaning": "パン屋"
+      },
+      {
+        "word": "baker",
+        "meaning": "パン職人"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "将来の夢",
+        "学校生活",
+        "部活動",
+        "異文化理解"
+      ],
+      "answer": "将来の夢",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「bread shop」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "祖父の店を手伝うソウタがパン職人を目指していること",
+        "他人の期待ではなく自分で職業を探究する大切さ",
+        "ケンが月曜日に学校でいろいろな活動を楽しんでいること",
+        "ミカが仲間と協力して初めての試合に出ようとしていること"
+      ],
+      "answer": "祖父の店を手伝うソウタがパン職人を目指していること",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "祖父の店、土曜日の手伝い、将来の夢",
+        "従来の夢、新しい職業との出会い、考え方の変化",
+        "好きな教科、昼食後の活動、月曜日への気持ち",
+        "チームの練習、初試合の予定、協力する気持ち"
+      ],
+      "answer": "祖父の店、土曜日の手伝い、将来の夢",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "Where is the bread shop?",
+        "questionKeywords": [
+          "bread",
+          "shop"
+        ],
+        "answerPatterns": [
+          "near the station",
+          "bread",
+          "loves bread",
+          "small bread",
+          "bread shop",
+          "shop",
+          "shop near",
+          "near"
+        ],
+        "hints": [
+          "質問文の「bread / shop」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "His grandfather has a small bread shop near the station.",
+        "translation": "パン屋は駅の近くにあります。"
+      },
+      {
+        "question": "What bread does Sota make with his grandfather?",
+        "questionKeywords": [
+          "sota",
+          "make",
+          "grandfather"
+        ],
+        "answerPatterns": [
+          "apple bread",
+          "grandfather",
+          "grandfather makes",
+          "apple",
+          "makes apple",
+          "bread",
+          "sota",
+          "sota wants"
+        ],
+        "hints": [
+          "質問文の「sota / make / grandfather」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "His grandfather makes apple bread with him.",
+        "translation": "祖父とアップルパンを作ります。"
+      },
+      {
+        "question": "What does Sota want to be?",
+        "questionKeywords": [
+          "sota",
+          "want"
+        ],
+        "answerPatterns": [
+          "a baker",
+          "sota",
+          "sota wants",
+          "wants",
+          "baker"
+        ],
+        "hints": [
+          "質問文の「sota / want」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Sota wants to be a baker.",
+        "translation": "ソウタはパン職人になりたいです。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "Where is the bread shop?",
+        "choices": [
+          "near the station",
+          "near the school",
+          "next to Sota's house",
+          "in front of the park"
+        ],
+        "answer": "near the station",
+        "evidence": "His grandfather has a small bread shop near the station.",
+        "explanation": "この問題は場所を尋ねています。本文の「His grandfather has a small bread shop near the station.」から、答えは「near the station」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What bread does Sota make with his grandfather?",
+        "choices": [
+          "apple bread",
+          "chocolate bread",
+          "rice bread",
+          "cheese bread"
+        ],
+        "answer": "apple bread",
+        "evidence": "His grandfather makes apple bread with him.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「His grandfather makes apple bread with him.」から、答えは「apple bread」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What does Sota want to be?",
+        "choices": [
+          "a baker",
+          "a teacher",
+          "a station worker",
+          "a musician"
+        ],
+        "answer": "a baker",
+        "evidence": "Sota wants to be a baker.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Sota wants to be a baker.」から、答えは「a baker」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j1_004",
+    "level": "中1",
+    "title": "Anika's Lunch",
+    "genre": "異文化理解",
+    "passage": "Anika is a new student in Yuki's class. She is from India. On Friday, Anika brings curry and bread for lunch.\n\nAnika's family eats curry on Sundays. Anika eats the bread with curry. Yuki wants to try it.\n\nNext week, Yuki will bring rice balls. The two girls want to talk about food in India and Japan.",
+    "translation": "アニカはユキのクラスの新しい生徒です。インド出身です。金曜日、昼食にカレーとパンを持ってきます。\n\nアニカの家族は日曜日にカレーを食べます。アニカはパンをカレーと一緒に食べます。ユキも食べてみたいと思います。\n\n次の週、ユキはおにぎりを持ってくる予定です。二人はインドと日本の食べ物について話したいと思っています。",
+    "notes": [
+      {
+        "word": "India",
+        "meaning": "インド"
+      },
+      {
+        "word": "rice ball",
+        "meaning": "おにぎり"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "異文化理解",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "異文化理解",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「India」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "二人の生徒が互いの国の食文化を教え合うこと",
+        "文化によって丁寧さの表し方が異なるため理由を理解する必要があること",
+        "ケンが月曜日に学校でいろいろな活動を楽しんでいること",
+        "ミカが仲間と協力して初めての試合に出ようとしていること"
+      ],
+      "answer": "二人の生徒が互いの国の食文化を教え合うこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "アニカの昼食、食べ方の紹介、次の文化交流",
+        "言葉以外の誤解、ホストシスターの説明、伝え方の変化と学び",
+        "好きな教科、昼食後の活動、月曜日への気持ち",
+        "チームの練習、初試合の予定、協力する気持ち"
+      ],
+      "answer": "アニカの昼食、食べ方の紹介、次の文化交流",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "Where is Anika from?",
+        "questionKeywords": [
+          "anika"
+        ],
+        "answerPatterns": [
+          "india",
+          "anika",
+          "friday anika",
+          "anika brings"
+        ],
+        "hints": [
+          "質問文の「anika」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "She is from India.",
+        "translation": "アニカはインド出身です。"
+      },
+      {
+        "question": "When does Anika's family eat curry?",
+        "questionKeywords": [
+          "family",
+          "eat",
+          "curry"
+        ],
+        "answerPatterns": [
+          "on sundays",
+          "curry",
+          "brings curry",
+          "family",
+          "anika's family",
+          "family eats",
+          "eats",
+          "eats curry"
+        ],
+        "hints": [
+          "質問文の「family / eat / curry」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Anika's family eats curry on Sundays.",
+        "translation": "アニカの家族は日曜日にカレーを食べます。"
+      },
+      {
+        "question": "What will Yuki bring next week?",
+        "questionKeywords": [
+          "bring",
+          "next",
+          "week"
+        ],
+        "answerPatterns": [
+          "rice balls",
+          "next week",
+          "week",
+          "week yuki",
+          "bring",
+          "bring rice",
+          "rice",
+          "balls"
+        ],
+        "hints": [
+          "質問文の「bring / next / week」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Next week, Yuki will bring rice balls.",
+        "translation": "ユキは次の週におにぎりを持ってきます。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "Where is Anika from?",
+        "choices": [
+          "India",
+          "Japan",
+          "China",
+          "Canada"
+        ],
+        "answer": "India",
+        "evidence": "She is from India.",
+        "explanation": "この問題は場所を尋ねています。本文の「She is from India.」から、答えは「India」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "When does Anika's family eat curry?",
+        "choices": [
+          "on Sundays",
+          "on Saturdays",
+          "on Fridays",
+          "every day"
+        ],
+        "answer": "on Sundays",
+        "evidence": "Anika's family eats curry on Sundays.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「Anika's family eats curry on Sundays.」から、答えは「on Sundays」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What will Yuki bring next week?",
+        "choices": [
+          "rice balls",
+          "curry",
+          "flat bread",
+          "apple bread"
+        ],
+        "answer": "rice balls",
+        "evidence": "Next week, Yuki will bring rice balls.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Next week, Yuki will bring rice balls.」から、答えは「rice balls」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j1_005",
+    "level": "中1",
+    "title": "The Blue Bag",
+    "genre": "物語文",
+    "passage": "Yui goes to the park after school. She finds a blue bag under a bench. A picture book and a red cap are in it.\n\nYui waits for twenty minutes. Then a little boy comes with his father. The boy is looking for a blue bag.\n\nThe boy says his book and cap are in the bag. Yui gives the bag to him. The boy smiles, and Yui feels happy.",
+    "translation": "ユイは放課後に公園へ行きます。ベンチの下で青いかばんを見つけます。中には絵本と赤い帽子があります。\n\nユイは20分待ちます。すると小さな男の子が父親と来ます。男の子は青いかばんを探しています。\n\n男の子は「中に本と帽子があります」と言います。ユイはかばんを渡します。男の子は笑い、ユイはうれしくなります。",
+    "notes": [
+      {
+        "word": "bench",
+        "meaning": "ベンチ"
+      },
+      {
+        "word": "cap",
+        "meaning": "帽子"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "物語文",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "物語文",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「bench」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "ユイが落とし物の持ち主を確かめてかばんを返したこと",
+        "失敗したアヤが落ち着いてやり直し最後までスピーチしたこと",
+        "古い写真をきっかけにメイが祖母の勇気ある過去を知ったこと",
+        "見慣れた日常にも新しい発見があること"
+      ],
+      "answer": "ユイが落とし物の持ち主を確かめてかばんを返したこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "かばんを発見、持ち主を待つ、中身を確認して返す",
+        "大会の準備、本番での失敗、再挑戦と気づき",
+        "写真の発見、祖母の旅の説明、メイの祖母への見方の変化",
+        "電車で着席、男性が景色を示す、レンの見方の変化"
+      ],
+      "answer": "かばんを発見、持ち主を待つ、中身を確認して返す",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "What is in the blue bag?",
+        "questionKeywords": [
+          "blue",
+          "bag"
+        ],
+        "answerPatterns": [
+          "a picture book and a red cap",
+          "blue",
+          "blue bag",
+          "bag",
+          "bag under",
+          "picture",
+          "picture book",
+          "book"
+        ],
+        "hints": [
+          "質問文の「blue / bag」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "A picture book and a red cap are in it.",
+        "translation": "青いかばんには絵本と赤い帽子があります。"
+      },
+      {
+        "question": "How long does Yui wait?",
+        "questionKeywords": [
+          "yui",
+          "wait"
+        ],
+        "answerPatterns": [
+          "for twenty minutes",
+          "yui",
+          "yui waits",
+          "waits",
+          "twenty",
+          "twenty minutes",
+          "minutes"
+        ],
+        "hints": [
+          "質問文の「yui / wait」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Yui waits for twenty minutes.",
+        "translation": "ユイは20分待ちます。"
+      },
+      {
+        "question": "Why does Yui give the bag to the boy?",
+        "questionKeywords": [
+          "give",
+          "bag",
+          "boy"
+        ],
+        "answerPatterns": [
+          "boy",
+          "bag",
+          "blue bag"
+        ],
+        "hints": [
+          "質問文の「give / bag / boy」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The boy says his book and cap are in the bag.",
+        "translation": "男の子がかばんの中身を知っていたからです。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "What is in the blue bag?",
+        "choices": [
+          "a picture book and a red cap",
+          "a picture book and a blue cap",
+          "a notebook and a red cap",
+          "a picture book and a toy"
+        ],
+        "answer": "a picture book and a red cap",
+        "evidence": "A picture book and a red cap are in it.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「A picture book and a red cap are in it.」から、答えは「a picture book and a red cap」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How long does Yui wait?",
+        "choices": [
+          "for twenty minutes",
+          "for ten minutes",
+          "for thirty minutes",
+          "for one hour"
+        ],
+        "answer": "for twenty minutes",
+        "evidence": "Yui waits for twenty minutes.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「Yui waits for twenty minutes.」から、答えは「for twenty minutes」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Why does Yui give the bag to the boy?",
+        "choices": [
+          "He knows the things in the bag.",
+          "He comes with his father.",
+          "He is crying near the bench.",
+          "He says the bag is blue."
+        ],
+        "answer": "He knows the things in the bag.",
+        "evidence": "The boy says his book and cap are in the bag.",
+        "explanation": "この問題は理由を尋ねています。本文の「The boy says his book and cap are in the bag.」から、答えは「He knows the things in the bag.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j2_001",
+    "level": "中2",
+    "title": "A Cleaner River",
+    "genre": "SDGs・環境",
+    "passage": "Last spring, Emi's class studied a river near their school. The students found many bottles and bags by the river. They counted 126 pieces of trash in three places.\n\nThe class made posters and put them in local stores. They also asked the city for two new trash boxes. For one month, the students checked the river every Friday.\n\nAt the end of the month, they found 78 pieces of trash. The number was smaller, but the river was not clean yet. The class decided to work there again in summer.",
+    "translation": "昨年の春、エミのクラスは学校近くの川を調べました。川のそばで多くのボトルや袋を見つけ、3か所で126個のごみを数えました。\n\nクラスはポスターを作って地域の店に貼り、市に新しいごみ箱を2つ頼みました。1か月間、毎週金曜日に川を確認しました。\n\n月末にはごみは78個でした。数は減りましたが、川はまだきれいではありません。クラスは夏にまた活動することにしました。",
+    "notes": [
+      {
+        "word": "trash",
+        "meaning": "ごみ"
+      },
+      {
+        "word": "local",
+        "meaning": "地域の"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "SDGs・環境",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "SDGs・環境",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「trash」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "生徒たちが調査と地域への働きかけで川のごみを減らしたこと",
+        "信頼できる調査結果を使って給食の食品廃棄を減らしたこと",
+        "修理と知識共有が持続可能な社会につながること",
+        "生徒の意見を調べて10代が利用しやすい図書館にしたこと"
+      ],
+      "answer": "生徒たちが調査と地域への働きかけで川のごみを減らしたこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "ごみの調査、ポスターと回収箱、結果と今後の活動",
+        "原因調査、データに基づく提案、実験結果と学び",
+        "廃棄問題、修理カフェの方法、成功の新しい尺度",
+        "図書館の問題、アンケート調査、新コーナーの完成"
+      ],
+      "answer": "ごみの調査、ポスターと回収箱、結果と今後の活動",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "How many pieces of trash did the students first find?",
+        "questionKeywords": [
+          "trash",
+          "first",
+          "find"
+        ],
+        "answerPatterns": [
+          "126 pieces",
+          "found",
+          "126",
+          "counted 126",
+          "pieces",
+          "trash"
+        ],
+        "hints": [
+          "質問文の「trash / first / find」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "They counted 126 pieces of trash in three places.",
+        "translation": "最初に126個のごみを見つけました。"
+      },
+      {
+        "question": "Where did the class put its posters?",
+        "questionKeywords": [
+          "class",
+          "put",
+          "posters"
+        ],
+        "answerPatterns": [
+          "in local stores",
+          "posters",
+          "put",
+          "put them",
+          "local",
+          "local stores",
+          "stores"
+        ],
+        "hints": [
+          "質問文の「class / put / posters」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The class made posters and put them in local stores.",
+        "translation": "地域の店にポスターを置きました。"
+      },
+      {
+        "question": "How often did the students check the river?",
+        "questionKeywords": [
+          "check",
+          "river"
+        ],
+        "answerPatterns": [
+          "every friday",
+          "checked",
+          "river",
+          "river every",
+          "every",
+          "friday"
+        ],
+        "hints": [
+          "質問文の「check / river」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "For one month, the students checked the river every Friday.",
+        "translation": "毎週金曜日に川を確認しました。"
+      },
+      {
+        "question": "What will the class do next?",
+        "questionKeywords": [
+          "class",
+          "next"
+        ],
+        "answerPatterns": [
+          "river",
+          "class decided",
+          "work",
+          "work there",
+          "again",
+          "there again",
+          "summer"
+        ],
+        "hints": [
+          "質問文の「class / next」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The class decided to work there again in summer.",
+        "translation": "夏にまた川で活動します。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "How many pieces of trash did the students first find?",
+        "choices": [
+          "126 pieces",
+          "78 pieces",
+          "106 pieces",
+          "162 pieces"
+        ],
+        "answer": "126 pieces",
+        "evidence": "They counted 126 pieces of trash in three places.",
+        "explanation": "この問題は数・量を尋ねています。本文の「They counted 126 pieces of trash in three places.」から、答えは「126 pieces」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Where did the class put its posters?",
+        "choices": [
+          "in local stores",
+          "at their school",
+          "near the station",
+          "in the city hall"
+        ],
+        "answer": "in local stores",
+        "evidence": "The class made posters and put them in local stores.",
+        "explanation": "この問題は場所を尋ねています。本文の「The class made posters and put them in local stores.」から、答えは「in local stores」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How often did the students check the river?",
+        "choices": [
+          "every Friday",
+          "every Monday",
+          "twice a month",
+          "at the end of the month"
+        ],
+        "answer": "every Friday",
+        "evidence": "For one month, the students checked the river every Friday.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「For one month, the students checked the river every Friday.」から、答えは「every Friday」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What will the class do next?",
+        "choices": [
+          "work at the river again in summer",
+          "stop the project after one month",
+          "clean a different park",
+          "ask stores to remove the posters"
+        ],
+        "answer": "work at the river again in summer",
+        "evidence": "The class decided to work there again in summer.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「The class decided to work there again in summer.」から、答えは「work at the river again in summer」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j2_002",
+    "level": "中2",
+    "title": "A New Corner at the Library",
+    "genre": "地域社会",
+    "passage": "Riku often studied at the town library. However, few junior high school students came there. Riku wanted a place for students of his age.\n\nHe and his friends asked 60 students about the library. Most students wanted tables for group study. Some students wanted books about sports and music.\n\nTwo months later, the library opened a new corner. It had two large tables and 200 new books. Students could work together there. Now many of Riku's classmates use the library after school.",
+    "translation": "リクは町の図書館でよく勉強しました。しかし、中学生はほとんど来ませんでした。リクは同年代の生徒のための場所を望みました。\n\nリクと友達は60人の生徒に図書館について尋ねました。多くはグループ学習用の机を望み、スポーツや音楽の本を求める生徒もいました。\n\n2か月後、図書館は新しいコーナーを開きました。大きな机が2つと新しい本が200冊ありました。生徒はそこで一緒に学習できます。今では多くの同級生が放課後に利用します。",
+    "notes": [
+      {
+        "word": "group study",
+        "meaning": "グループ学習"
+      },
+      {
+        "word": "corner",
+        "meaning": "コーナー"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "地域社会",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "地域社会",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「group study」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "生徒の意見を調べて10代が利用しやすい図書館にしたこと",
+        "多様な利用者の声を聞くことで誰もが使いやすい公園を計画したこと",
+        "事実と記憶を区別しながら地域の物語を伝える価値",
+        "生徒たちが調査と地域への働きかけで川のごみを減らしたこと"
+      ],
+      "answer": "生徒の意見を調べて10代が利用しやすい図書館にしたこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "図書館の問題、アンケート調査、新コーナーの完成",
+        "設計の問題、利用者への聞き取り、提案と採用された改善",
+        "地図作成、確認困難への対応、地域への効果",
+        "ごみの調査、ポスターと回収箱、結果と今後の活動"
+      ],
+      "answer": "図書館の問題、アンケート調査、新コーナーの完成",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "Why did Riku want a new space?",
+        "questionKeywords": [
+          "want",
+          "new",
+          "space"
+        ],
+        "answerPatterns": [
+          "library",
+          "town library",
+          "few",
+          "however few",
+          "few junior",
+          "junior",
+          "junior high",
+          "high"
+        ],
+        "hints": [
+          "質問文の「want / new / space」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "However, few junior high school students came there.",
+        "translation": "図書館を利用する中学生が少なかったからです。"
+      },
+      {
+        "question": "How many students answered the questions?",
+        "questionKeywords": [
+          "answered",
+          "questions"
+        ],
+        "answerPatterns": [
+          "60 students",
+          "friends",
+          "library",
+          "asked",
+          "about"
+        ],
+        "hints": [
+          "質問文の「answered / questions」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "He and his friends asked 60 students about the library.",
+        "translation": "60人の生徒が質問に答えました。"
+      },
+      {
+        "question": "What did most students want?",
+        "questionKeywords": [
+          "most",
+          "want"
+        ],
+        "answerPatterns": [
+          "tables for group study",
+          "most",
+          "wanted tables",
+          "tables",
+          "group",
+          "group study",
+          "study",
+          "wanted books"
+        ],
+        "hints": [
+          "質問文の「most / want」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Most students wanted tables for group study.",
+        "translation": "多くの生徒はグループ学習用の机を望みました。"
+      },
+      {
+        "question": "What can students do in the new corner?",
+        "questionKeywords": [
+          "new",
+          "corner"
+        ],
+        "answerPatterns": [
+          "work together",
+          "new",
+          "200 new",
+          "new books",
+          "work",
+          "together",
+          "together there"
+        ],
+        "hints": [
+          "質問文の「new / corner」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Students could work together there.",
+        "translation": "新しいコーナーで一緒に学習できます。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "Why did Riku want a new space?",
+        "choices": [
+          "Few junior high school students used the library.",
+          "The library had no books for children.",
+          "Teenagers could not borrow books.",
+          "The library closed before school ended."
+        ],
+        "answer": "Few junior high school students used the library.",
+        "evidence": "However, few junior high school students came there.",
+        "explanation": "この問題は理由を尋ねています。本文の「However, few junior high school students came there.」から、答えは「Few junior high school students used the library.」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How many students answered the questions?",
+        "choices": [
+          "60 students",
+          "40 students",
+          "80 students",
+          "200 students"
+        ],
+        "answer": "60 students",
+        "evidence": "He and his friends asked 60 students about the library.",
+        "explanation": "この問題は数・量を尋ねています。本文の「He and his friends asked 60 students about the library.」から、答えは「60 students」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did most students want?",
+        "choices": [
+          "tables for group study",
+          "more computers",
+          "a place to eat lunch",
+          "longer library hours"
+        ],
+        "answer": "tables for group study",
+        "evidence": "Most students wanted tables for group study.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Most students wanted tables for group study.」から、答えは「tables for group study」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What can students do in the new corner?",
+        "choices": [
+          "work together",
+          "eat and talk loudly",
+          "play sports indoors",
+          "use the children's room alone"
+        ],
+        "answer": "work together",
+        "evidence": "Students could work together there.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Students could work together there.」から、答えは「work together」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j2_003",
+    "level": "中2",
+    "title": "Nao's Tablet Help Desk",
+    "genre": "AI・ICT",
+    "passage": "Nao's school started using tablets last September. Students read class papers and sent homework with them. Some students forgot their passwords. Other students could not find the right files.\n\nNao liked computers, so she made three short videos. Each video was under two minutes. She also helped students in the library on Tuesday and Thursday.\n\nAt first, fifteen students came each week. Two months later, only five or six students came. Nao was happy. The smaller number showed that more students could use their tablets.",
+    "translation": "ナオの学校は昨年9月にタブレットを使い始めました。生徒は授業のプリントを読んだり宿題を送ったりしました。パスワードを忘れる生徒や、正しいファイルを見つけられない生徒がいました。\n\nナオはコンピューターが好きだったので、短い動画を3本作りました。各動画は2分未満でした。火曜日と木曜日には図書館で生徒を助けました。\n\n最初は週に15人が来ました。2か月後には5、6人だけになりました。より多くの生徒がタブレットを使えるようになったと分かり、ナオは喜びました。",
+    "notes": [
+      {
+        "word": "tablet",
+        "meaning": "タブレット"
+      },
+      {
+        "word": "password",
+        "meaning": "パスワード"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "AI・ICT",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "AI・ICT",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「tablet」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "ナオの動画と相談所が生徒のタブレット利用を助けたこと",
+        "AIを活用するときも人が情報の正確さに責任を持つ必要があること",
+        "翻訳技術には人間による文脈と感情の確認が必要なこと",
+        "生徒たちが調査と地域への働きかけで川のごみを減らしたこと"
+      ],
+      "answer": "ナオの動画と相談所が生徒のタブレット利用を助けたこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "タブレットの問題、ナオの支援、利用者数の変化",
+        "AIで作業を効率化、誤情報を発見、利用ルールと教訓",
+        "翻訳アプリの利点と限界、比較実験、結論",
+        "ごみの調査、ポスターと回収箱、結果と今後の活動"
+      ],
+      "answer": "タブレットの問題、ナオの支援、利用者数の変化",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "What did some students forget?",
+        "questionKeywords": [
+          "forget"
+        ],
+        "answerPatterns": [
+          "their passwords",
+          "passwords",
+          "forgot"
+        ],
+        "hints": [
+          "質問文の「forget」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Some students forgot their passwords.",
+        "translation": "一部の生徒はパスワードを忘れました。"
+      },
+      {
+        "question": "How long was each video?",
+        "questionKeywords": [
+          "each",
+          "video"
+        ],
+        "answerPatterns": [
+          "under two minutes",
+          "videos",
+          "short videos",
+          "each",
+          "each video",
+          "video",
+          "under",
+          "under two"
+        ],
+        "hints": [
+          "質問文の「each / video」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Each video was under two minutes.",
+        "translation": "各動画は2分未満でした。"
+      },
+      {
+        "question": "When did Nao help students?",
+        "questionKeywords": [
+          "nao",
+          "help"
+        ],
+        "answerPatterns": [
+          "on tuesday and thursday",
+          "helped",
+          "also helped",
+          "tuesday",
+          "thursday"
+        ],
+        "hints": [
+          "質問文の「nao / help」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "She also helped students in the library on Tuesday and Thursday.",
+        "translation": "火曜日と木曜日に助けました。"
+      },
+      {
+        "question": "Why was Nao happy?",
+        "questionKeywords": [
+          "nao",
+          "happy"
+        ],
+        "answerPatterns": [
+          "more students could use their tablets",
+          "nao",
+          "happy",
+          "more",
+          "tablets"
+        ],
+        "hints": [
+          "質問文の「nao / happy」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The smaller number showed that more students could use their tablets.",
+        "translation": "より多くの生徒がタブレットを使えるようになったからです。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "What did some students forget?",
+        "choices": [
+          "their passwords",
+          "their homework",
+          "their tablets",
+          "their guide videos"
+        ],
+        "answer": "their passwords",
+        "evidence": "Some students forgot their passwords.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Some students forgot their passwords.」から、答えは「their passwords」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How long was each video?",
+        "choices": [
+          "under two minutes",
+          "about five minutes",
+          "exactly ten minutes",
+          "more than twenty minutes"
+        ],
+        "answer": "under two minutes",
+        "evidence": "Each video was under two minutes.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「Each video was under two minutes.」から、答えは「under two minutes」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "When did Nao help students?",
+        "choices": [
+          "on Tuesday and Thursday",
+          "on Mondays and Fridays after school",
+          "every Wednesday morning",
+          "on Tuesdays and Thursdays after school"
+        ],
+        "answer": "on Tuesday and Thursday",
+        "evidence": "She also helped students in the library on Tuesday and Thursday.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「She also helped students in the library on Tuesday and Thursday.」から、答えは「on Tuesday and Thursday」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Why was Nao happy?",
+        "choices": [
+          "More students could use their tablets.",
+          "Fewer students were using tablets.",
+          "Students stopped coming to school.",
+          "The school stopped using her videos."
+        ],
+        "answer": "More students could use their tablets.",
+        "evidence": "The smaller number showed that more students could use their tablets.",
+        "explanation": "この問題は理由を尋ねています。本文の「The smaller number showed that more students could use their tablets.」から、答えは「More students could use their tablets.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j2_004",
+    "level": "中2",
+    "title": "Haru Learns to Listen",
+    "genre": "部活動",
+    "passage": "Haru became captain of the tennis team in April. He wanted the team to win. During practice, he gave many orders. Some younger players stopped asking questions.\n\nThe coach said, “A captain must listen, too.” Haru started a ten-minute meeting after practice. Every player talked about one good point and one problem.\n\nOne first-year player had an idea for a new warm-up. The idea helped the team. Haru learned an important lesson. Listening to other players can make a team stronger.",
+    "translation": "ハルは4月にテニス部の部長になりました。チームに勝ってほしくて、練習中に多くの指示を出しました。下級生の中には質問をしなくなる人もいました。\n\nコーチは「部長も聞かなければならない」と言いました。ハルは練習後に10分間のミーティングを始めました。全員が良かった点と問題点を一つずつ話しました。\n\n1年生が新しい準備運動の案を出し、その案はチームの役に立ちました。ハルは、ほかの選手の話を聞くとチームが強くなると学びました。",
+    "notes": [
+      {
+        "word": "captain",
+        "meaning": "部長・主将"
+      },
+      {
+        "word": "order",
+        "meaning": "指示"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "部活動",
+        "学校生活",
+        "将来の夢",
+        "異文化理解"
+      ],
+      "answer": "部活動",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「captain」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "部長のハルが指示するだけでなく仲間の意見を聞く大切さを学んだこと",
+        "ミカが仲間と協力して初めての試合に出ようとしていること",
+        "生徒たちが調査と地域への働きかけで川のごみを減らしたこと",
+        "生徒の意見を調べて10代が利用しやすい図書館にしたこと"
+      ],
+      "answer": "部長のハルが指示するだけでなく仲間の意見を聞く大切さを学んだこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "部長としての問題、ミーティング開始、チームの改善",
+        "チームの練習、初試合の予定、協力する気持ち",
+        "ごみの調査、ポスターと回収箱、結果と今後の活動",
+        "図書館の問題、アンケート調査、新コーナーの完成"
+      ],
+      "answer": "部長としての問題、ミーティング開始、チームの改善",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "What happened to some younger players?",
+        "questionKeywords": [
+          "happened",
+          "younger",
+          "players"
+        ],
+        "answerPatterns": [
+          "younger",
+          "younger players",
+          "players",
+          "players stopped",
+          "stopped",
+          "stopped asking",
+          "asking",
+          "asking questions"
+        ],
+        "hints": [
+          "質問文の「happened / younger / players」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Some younger players stopped asking questions.",
+        "translation": "一部の下級生は質問をしなくなりました。"
+      },
+      {
+        "question": "How long was each meeting?",
+        "questionKeywords": [
+          "each",
+          "meeting"
+        ],
+        "answerPatterns": [
+          "meeting",
+          "ten-minute meeting",
+          "meeting after"
+        ],
+        "hints": [
+          "質問文の「each / meeting」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Haru started a ten-minute meeting after practice.",
+        "translation": "各ミーティングは10分間でした。"
+      },
+      {
+        "question": "Who had an idea for a new warm-up?",
+        "questionKeywords": [
+          "idea",
+          "new",
+          "warm-up"
+        ],
+        "answerPatterns": [
+          "player",
+          "every player",
+          "player talked",
+          "first-year",
+          "one first-year",
+          "first-year player",
+          "idea",
+          "new"
+        ],
+        "hints": [
+          "質問文の「idea / new / warm-up」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "One first-year player had an idea for a new warm-up.",
+        "translation": "1年生の選手が新しい準備運動を考えました。"
+      },
+      {
+        "question": "What did Haru learn?",
+        "questionKeywords": [
+          "haru",
+          "learn"
+        ],
+        "answerPatterns": [
+          "haru",
+          "haru learned",
+          "listening",
+          "team stronger",
+          "stronger"
+        ],
+        "hints": [
+          "質問文の「haru / learn」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Listening to other players can make a team stronger.",
+        "translation": "人の話を聞くとチームが強くなると学びました。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "What happened to some younger players?",
+        "choices": [
+          "They stopped asking questions.",
+          "They practiced for a longer time.",
+          "They gave Haru more instructions.",
+          "They stopped coming to practice."
+        ],
+        "answer": "They stopped asking questions.",
+        "evidence": "Some younger players stopped asking questions.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Some younger players stopped asking questions.」から、答えは「They stopped asking questions.」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How long was each meeting?",
+        "choices": [
+          "ten minutes",
+          "five minutes",
+          "twenty minutes",
+          "thirty minutes"
+        ],
+        "answer": "ten minutes",
+        "evidence": "Haru started a ten-minute meeting after practice.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「Haru started a ten-minute meeting after practice.」から、答えは「ten minutes」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Who had an idea for a new warm-up?",
+        "choices": [
+          "a first-year player",
+          "the coach",
+          "Haru",
+          "a third-year player"
+        ],
+        "answer": "a first-year player",
+        "evidence": "One first-year player had an idea for a new warm-up.",
+        "explanation": "この問題は人物を尋ねています。本文の「One first-year player had an idea for a new warm-up.」から、答えは「a first-year player」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did Haru learn?",
+        "choices": [
+          "Listening can make a team stronger.",
+          "A captain must speak first.",
+          "Longer practice is always better.",
+          "Younger players should not give advice."
+        ],
+        "answer": "Listening can make a team stronger.",
+        "evidence": "Listening to other players can make a team stronger.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Listening to other players can make a team stronger.」から、答えは「Listening can make a team stronger.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j2_005",
+    "level": "中2",
+    "title": "Aya's Second Start",
+    "genre": "物語文",
+    "passage": "Aya practiced for an English speech contest for three weeks. She knew her speech, but she was very nervous on the contest day.\n\nIn front of the audience, Aya forgot the first line. She could not speak for a few seconds. Then she saw her teacher smile. Aya took a deep breath and started again.\n\nThis time, she spoke slowly and finished the speech. She did not win, but many people clapped. Aya was proud because she did not give up.",
+    "translation": "アヤは3週間、英語スピーチ大会の練習をしました。スピーチは覚えていましたが、大会当日はとても緊張していました。\n\n聴衆の前で最初の一文を忘れ、数秒間話せませんでした。すると先生がほほえむのが見えました。アヤは深呼吸して、もう一度始めました。\n\n今度はゆっくり話し、最後まで終えました。優勝はしませんでしたが、多くの人が拍手しました。諦めなかったのでアヤは誇らしく感じました。",
+    "notes": [
+      {
+        "word": "speech contest",
+        "meaning": "スピーチ大会"
+      },
+      {
+        "word": "clap",
+        "meaning": "拍手する"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "物語文",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "物語文",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「speech contest」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "失敗したアヤが落ち着いてやり直し最後までスピーチしたこと",
+        "ユイが落とし物の持ち主を確かめてかばんを返したこと",
+        "古い写真をきっかけにメイが祖母の勇気ある過去を知ったこと",
+        "見慣れた日常にも新しい発見があること"
+      ],
+      "answer": "失敗したアヤが落ち着いてやり直し最後までスピーチしたこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "大会の準備、本番での失敗、再挑戦と気づき",
+        "かばんを発見、持ち主を待つ、中身を確認して返す",
+        "写真の発見、祖母の旅の説明、メイの祖母への見方の変化",
+        "電車で着席、男性が景色を示す、レンの見方の変化"
+      ],
+      "answer": "大会の準備、本番での失敗、再挑戦と気づき",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "How long did Aya practice?",
+        "questionKeywords": [
+          "aya",
+          "practice"
+        ],
+        "answerPatterns": [
+          "for three weeks",
+          "aya",
+          "aya practiced",
+          "three",
+          "three weeks",
+          "weeks"
+        ],
+        "hints": [
+          "質問文の「aya / practice」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Aya practiced for an English speech contest for three weeks.",
+        "translation": "アヤは3週間練習しました。"
+      },
+      {
+        "question": "What did Aya forget?",
+        "questionKeywords": [
+          "aya",
+          "forget"
+        ],
+        "answerPatterns": [
+          "the first line",
+          "aya",
+          "audience aya",
+          "aya forgot",
+          "first line",
+          "line"
+        ],
+        "hints": [
+          "質問文の「aya / forget」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "In front of the audience, Aya forgot the first line.",
+        "translation": "アヤは最初の一文を忘れました。"
+      },
+      {
+        "question": "What did Aya do after seeing her teacher smile?",
+        "questionKeywords": [
+          "seeing",
+          "teacher",
+          "smile"
+        ],
+        "answerPatterns": [
+          "teacher",
+          "teacher smile",
+          "smile",
+          "took",
+          "aya took",
+          "deep",
+          "deep breath",
+          "breath"
+        ],
+        "hints": [
+          "質問文の「seeing / teacher / smile」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Aya took a deep breath and started again.",
+        "translation": "深呼吸してもう一度始めました。"
+      },
+      {
+        "question": "Why was Aya proud?",
+        "questionKeywords": [
+          "aya",
+          "proud"
+        ],
+        "answerPatterns": [
+          "she did not give up",
+          "not",
+          "not win",
+          "aya",
+          "proud",
+          "proud because",
+          "not give",
+          "give"
+        ],
+        "hints": [
+          "質問文の「aya / proud」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Aya was proud because she did not give up.",
+        "translation": "諦めなかったからです。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "How long did Aya practice?",
+        "choices": [
+          "for three weeks",
+          "for one week",
+          "for two weeks",
+          "for one month"
+        ],
+        "answer": "for three weeks",
+        "evidence": "Aya practiced for an English speech contest for three weeks.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「Aya practiced for an English speech contest for three weeks.」から、答えは「for three weeks」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did Aya forget?",
+        "choices": [
+          "the first line",
+          "the last line",
+          "her teacher's name",
+          "the contest date"
+        ],
+        "answer": "the first line",
+        "evidence": "In front of the audience, Aya forgot the first line.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「In front of the audience, Aya forgot the first line.」から、答えは「the first line」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did Aya do after seeing her teacher smile?",
+        "choices": [
+          "She took a deep breath and started again.",
+          "She left the stage.",
+          "She asked her teacher for help.",
+          "She read the speech from her paper."
+        ],
+        "answer": "She took a deep breath and started again.",
+        "evidence": "Aya took a deep breath and started again.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Aya took a deep breath and started again.」から、答えは「She took a deep breath and started again.」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Why was Aya proud?",
+        "choices": [
+          "She did not give up.",
+          "She won first prize.",
+          "She spoke very quickly.",
+          "She practiced for many weeks."
+        ],
+        "answer": "She did not give up.",
+        "evidence": "Aya was proud because she did not give up.",
+        "explanation": "この問題は理由を尋ねています。本文の「Aya was proud because she did not give up.」から、答えは「She did not give up.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j3_001",
+    "level": "中3",
+    "title": "Reducing Food Waste",
+    "genre": "SDGs・環境",
+    "passage": "A lot of food from school lunches was thrown away at Yuna's school. Yuna wanted to know why. She and four classmates asked 180 students about their lunch.\n\nThe answers showed that the amount of food was the biggest problem. Younger students often got too much food. Yuna's group suggested two serving sizes. They also made a table for unopened bread and milk.\n\nThe school tried the plan for one month. Food waste went down by thirty percent. The kitchen workers also found which dishes students often left.\n\nYuna learned that ideas are more useful when they are supported by good information.",
+    "translation": "ユナの学校では、給食の多くの食べ物が捨てられていました。理由を知るため、ユナと4人の同級生は180人に昼食について尋ねました。\n\n回答から、食事の量が最大の問題だと分かりました。下級生は多すぎる量を受け取ることがありました。ユナたちは量を2種類にし、未開封のパンや牛乳を置く台も作りました。\n\n学校は1か月間計画を試し、食品廃棄は30％減りました。調理員は残されやすい料理も知りました。\n\nユナは、よい情報に支えられた考えはより役立つと学びました。",
+    "notes": [
+      {
+        "word": "food waste",
+        "meaning": "食品廃棄"
+      },
+      {
+        "word": "serving size",
+        "meaning": "一人分の量"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "SDGs・環境",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "SDGs・環境",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「food waste」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "信頼できる調査結果を使って給食の食品廃棄を減らしたこと",
+        "生徒たちが調査と地域への働きかけで川のごみを減らしたこと",
+        "修理と知識共有が持続可能な社会につながること",
+        "文化によって丁寧さの表し方が異なるため理由を理解する必要があること"
+      ],
+      "answer": "信頼できる調査結果を使って給食の食品廃棄を減らしたこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "原因調査、データに基づく提案、実験結果と学び",
+        "ごみの調査、ポスターと回収箱、結果と今後の活動",
+        "廃棄問題、修理カフェの方法、成功の新しい尺度",
+        "言葉以外の誤解、ホストシスターの説明、伝え方の変化と学び"
+      ],
+      "answer": "原因調査、データに基づく提案、実験結果と学び",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "How many students answered the questions?",
+        "questionKeywords": [
+          "answered",
+          "questions"
+        ],
+        "answerPatterns": [
+          "180 students",
+          "180",
+          "asked 180",
+          "answers",
+          "answers showed"
+        ],
+        "hints": [
+          "質問文の「answered / questions」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "She and four classmates asked 180 students about their lunch.",
+        "translation": "180人の生徒が質問に答えました。"
+      },
+      {
+        "question": "What was the biggest problem?",
+        "questionKeywords": [
+          "biggest",
+          "problem"
+        ],
+        "answerPatterns": [
+          "the amount of food",
+          "amount",
+          "food",
+          "biggest",
+          "biggest problem",
+          "problem"
+        ],
+        "hints": [
+          "質問文の「biggest / problem」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The answers showed that the amount of food was the biggest problem.",
+        "translation": "最大の問題は食事の量でした。"
+      },
+      {
+        "question": "What could students put on the table?",
+        "questionKeywords": [
+          "put",
+          "table"
+        ],
+        "answerPatterns": [
+          "unopened bread and milk",
+          "table",
+          "unopened",
+          "unopened bread",
+          "bread",
+          "milk"
+        ],
+        "hints": [
+          "質問文の「put / table」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "They also made a table for unopened bread and milk.",
+        "translation": "未開封のパンや牛乳を置けました。"
+      },
+      {
+        "question": "How much did food waste go down?",
+        "questionKeywords": [
+          "food",
+          "waste",
+          "down"
+        ],
+        "answerPatterns": [
+          "by thirty percent",
+          "food",
+          "food waste",
+          "waste",
+          "waste went",
+          "down",
+          "went down",
+          "down by"
+        ],
+        "hints": [
+          "質問文の「food / waste / down」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Food waste went down by thirty percent.",
+        "translation": "食品廃棄は30％減りました。"
+      },
+      {
+        "question": "What did Yuna learn?",
+        "questionKeywords": [
+          "yuna",
+          "learn"
+        ],
+        "answerPatterns": [
+          "yuna",
+          "yuna learned",
+          "ideas",
+          "more",
+          "more useful",
+          "useful",
+          "good",
+          "by good"
+        ],
+        "hints": [
+          "質問文の「yuna / learn」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Yuna learned that ideas are more useful when they are supported by good information.",
+        "translation": "よい情報は考えをより役立つものにすると学びました。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "How many students answered the questions?",
+        "choices": [
+          "180 students",
+          "180 teachers",
+          "four classmates",
+          "the kitchen staff only"
+        ],
+        "answer": "180 students",
+        "evidence": "She and four classmates asked 180 students about their lunch.",
+        "explanation": "この問題は数・量を尋ねています。本文の「She and four classmates asked 180 students about their lunch.」から、答えは「180 students」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What was the biggest problem?",
+        "choices": [
+          "the amount of food",
+          "the taste of the food",
+          "the time allowed for lunch",
+          "the number of menu choices"
+        ],
+        "answer": "the amount of food",
+        "evidence": "The answers showed that the amount of food was the biggest problem.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「The answers showed that the amount of food was the biggest problem.」から、答えは「the amount of food」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What could students put on the table?",
+        "choices": [
+          "unopened bread and milk",
+          "opened juice bottles",
+          "used lunch boxes",
+          "fruit from home"
+        ],
+        "answer": "unopened bread and milk",
+        "evidence": "They also made a table for unopened bread and milk.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「They also made a table for unopened bread and milk.」から、答えは「unopened bread and milk」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How much did food waste go down?",
+        "choices": [
+          "by thirty percent",
+          "by ten percent",
+          "by twenty percent",
+          "by fifty percent"
+        ],
+        "answer": "by thirty percent",
+        "evidence": "Food waste went down by thirty percent.",
+        "explanation": "この問題は数・量を尋ねています。本文の「Food waste went down by thirty percent.」から、答えは「by thirty percent」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did Yuna learn?",
+        "choices": [
+          "Good information makes ideas more useful.",
+          "Popular ideas are always correct.",
+          "Surveys are more important than action.",
+          "Menus should never be changed."
+        ],
+        "answer": "Good information makes ideas more useful.",
+        "evidence": "Yuna learned that ideas are more useful when they are supported by good information.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Yuna learned that ideas are more useful when they are supported by good information.」から、答えは「Good information makes ideas more useful.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j3_002",
+    "level": "中3",
+    "title": "More Than Being Polite",
+    "genre": "異文化理解",
+    "passage": "Kenta stayed with a family in Canada for three weeks. He had studied English for years. However, he sometimes had problems at dinner.\n\nHis host parents often asked what he wanted to eat. Kenta usually said, “Anything is fine.” He thought this was polite. His host family wanted to know his real choice, so they sometimes looked confused.\n\nHis host sister explained this to him. After that, Kenta clearly said what he wanted. He also asked other family members about their choices.\n\nKenta learned that people show respect in different ways. We should try to understand these differences.",
+    "translation": "ケンタはカナダの家庭に3週間滞在しました。何年も英語を勉強していましたが、夕食時に問題が起こることがありました。\n\nホストペアレンツが食べたい物を尋ねると、ケンタは「何でもいいです」と答えました。丁寧だと思っていましたが、家族は本当の希望を知りたかったため困惑しました。\n\nホストシスターがこの違いを説明しました。その後、ケンタは希望をはっきり言い、家族の希望も尋ねました。\n\n人は異なる方法で敬意を示すので、その違いを理解しようとするべきだと学びました。",
+    "notes": [
+      {
+        "word": "host family",
+        "meaning": "ホストファミリー"
+      },
+      {
+        "word": "choice",
+        "meaning": "選択・希望"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "異文化理解",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "異文化理解",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「host family」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "文化によって丁寧さの表し方が異なるため理由を理解する必要があること",
+        "二人の生徒が互いの国の食文化を教え合うこと",
+        "信頼できる調査結果を使って給食の食品廃棄を減らしたこと",
+        "AIを活用するときも人が情報の正確さに責任を持つ必要があること"
+      ],
+      "answer": "文化によって丁寧さの表し方が異なるため理由を理解する必要があること",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "言葉以外の誤解、ホストシスターの説明、伝え方の変化と学び",
+        "アニカの昼食、食べ方の紹介、次の文化交流",
+        "原因調査、データに基づく提案、実験結果と学び",
+        "AIで作業を効率化、誤情報を発見、利用ルールと教訓"
+      ],
+      "answer": "言葉以外の誤解、ホストシスターの説明、伝え方の変化と学び",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "How long did Kenta stay in Canada?",
+        "questionKeywords": [
+          "kenta",
+          "stay",
+          "canada"
+        ],
+        "answerPatterns": [
+          "for three weeks",
+          "kenta",
+          "kenta stayed",
+          "stayed",
+          "canada",
+          "three",
+          "three weeks",
+          "weeks"
+        ],
+        "hints": [
+          "質問文の「kenta / stay / canada」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Kenta stayed with a family in Canada for three weeks.",
+        "translation": "ケンタはカナダに3週間滞在しました。"
+      },
+      {
+        "question": "Why did the host family look confused?",
+        "questionKeywords": [
+          "family",
+          "look",
+          "confused"
+        ],
+        "answerPatterns": [
+          "family",
+          "host family",
+          "family wanted",
+          "know",
+          "real",
+          "real choice",
+          "choice",
+          "choice so"
+        ],
+        "hints": [
+          "質問文の「family / look / confused」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "His host family wanted to know his real choice, so they sometimes looked confused.",
+        "translation": "ケンタの本当の希望を知りたかったからです。"
+      },
+      {
+        "question": "Who explained the difference to Kenta?",
+        "questionKeywords": [
+          "explained",
+          "difference",
+          "kenta"
+        ],
+        "answerPatterns": [
+          "his host sister",
+          "host",
+          "host family",
+          "host sister",
+          "sister",
+          "sister explained",
+          "explained",
+          "kenta"
+        ],
+        "hints": [
+          "質問文の「explained / difference / kenta」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "His host sister explained this to him.",
+        "translation": "ホストシスターが説明しました。"
+      },
+      {
+        "question": "How did Kenta change?",
+        "questionKeywords": [
+          "kenta",
+          "change"
+        ],
+        "answerPatterns": [
+          "kenta",
+          "kenta clearly",
+          "clearly",
+          "clearly said"
+        ],
+        "hints": [
+          "質問文の「kenta / change」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "After that, Kenta clearly said what he wanted.",
+        "translation": "自分の希望をはっきり言うようになりました。"
+      },
+      {
+        "question": "What did Kenta learn?",
+        "questionKeywords": [
+          "kenta",
+          "learn"
+        ],
+        "answerPatterns": [
+          "people show respect in different ways",
+          "kenta",
+          "kenta learned",
+          "people show",
+          "show",
+          "show respect",
+          "respect",
+          "different"
+        ],
+        "hints": [
+          "質問文の「kenta / learn」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Kenta learned that people show respect in different ways.",
+        "translation": "敬意の示し方は人によって異なると学びました。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "How long did Kenta stay in Canada?",
+        "choices": [
+          "for three weeks",
+          "for one week",
+          "for two months",
+          "for one year"
+        ],
+        "answer": "for three weeks",
+        "evidence": "Kenta stayed with a family in Canada for three weeks.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「Kenta stayed with a family in Canada for three weeks.」から、答えは「for three weeks」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Why did the host family look confused?",
+        "choices": [
+          "They wanted to know Kenta's real choice.",
+          "They thought he disliked their food.",
+          "They could not understand his English.",
+          "They wanted him to cook dinner."
+        ],
+        "answer": "They wanted to know Kenta's real choice.",
+        "evidence": "His host family wanted to know his real choice, so they sometimes looked confused.",
+        "explanation": "この問題は理由を尋ねています。本文の「His host family wanted to know his real choice, so they sometimes looked confused.」から、答えは「They wanted to know Kenta's real choice.」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Who explained the difference to Kenta?",
+        "choices": [
+          "his host sister",
+          "his host mother",
+          "his English teacher",
+          "another exchange student"
+        ],
+        "answer": "his host sister",
+        "evidence": "His host sister explained this to him.",
+        "explanation": "この問題は人物を尋ねています。本文の「His host sister explained this to him.」から、答えは「his host sister」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How did Kenta change?",
+        "choices": [
+          "He clearly said what he wanted.",
+          "He stopped answering questions.",
+          "He always accepted the first choice.",
+          "He only spoke about Japanese food."
+        ],
+        "answer": "He clearly said what he wanted.",
+        "evidence": "After that, Kenta clearly said what he wanted.",
+        "explanation": "この問題は方法や変化を尋ねています。本文の「After that, Kenta clearly said what he wanted.」から、答えは「He clearly said what he wanted.」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did Kenta learn?",
+        "choices": [
+          "People show respect in different ways.",
+          "One communication style is correct everywhere.",
+          "Good grammar prevents every misunderstanding.",
+          "People should avoid giving personal opinions."
+        ],
+        "answer": "People show respect in different ways.",
+        "evidence": "Kenta learned that people show respect in different ways.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Kenta learned that people show respect in different ways.」から、答えは「People show respect in different ways.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j3_003",
+    "level": "中3",
+    "title": "AI in the School Newspaper",
+    "genre": "AI・ICT",
+    "passage": "The school newspaper team had one week to finish its last paper of the year. The students used an AI tool for ideas about titles. The tool gave them many ideas very quickly.\n\nMai checked the ideas and found a problem. One title said the basketball team won a city contest. In fact, the team only played in the final game. The AI added information that was not in the article.\n\nThe students made three rules. They checked every AI idea with the original article. A student rewrote unclear sentences. They also explained where they used AI.\n\nAI helped the team, but the students learned an important lesson. People must check information before they publish it.",
+    "translation": "新聞委員会は年度最後の新聞を1週間で完成させる必要がありました。生徒は見出しの案を得るためAIを使い、すぐに多くの案を得ました。\n\nマイが案を確認すると問題がありました。ある見出しはバスケットボール部が市大会で優勝したと書きましたが、実際は決勝戦に出ただけでした。AIが記事にない情報を加えたのです。\n\n生徒は3つのルールを作りました。AIの案を元の記事と確認し、不明確な文は生徒が書き直し、AIを使った場所も説明しました。\n\nAIは役立ちましたが、情報を公開する前に人が確認しなければならないと学びました。",
+    "notes": [
+      {
+        "word": "newspaper",
+        "meaning": "新聞"
+      },
+      {
+        "word": "publish",
+        "meaning": "公表する"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "AI・ICT",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "AI・ICT",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「newspaper」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "AIを活用するときも人が情報の正確さに責任を持つ必要があること",
+        "ナオの動画と相談所が生徒のタブレット利用を助けたこと",
+        "翻訳技術には人間による文脈と感情の確認が必要なこと",
+        "信頼できる調査結果を使って給食の食品廃棄を減らしたこと"
+      ],
+      "answer": "AIを活用するときも人が情報の正確さに責任を持つ必要があること",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "AIで作業を効率化、誤情報を発見、利用ルールと教訓",
+        "タブレットの問題、ナオの支援、利用者数の変化",
+        "翻訳アプリの利点と限界、比較実験、結論",
+        "原因調査、データに基づく提案、実験結果と学び"
+      ],
+      "answer": "AIで作業を効率化、誤情報を発見、利用ルールと教訓",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "Why did the students use AI?",
+        "questionKeywords": [
+          "use",
+          "ai"
+        ],
+        "answerPatterns": [
+          "ideas",
+          "ideas about",
+          "titles",
+          "about titles",
+          "ideas very"
+        ],
+        "hints": [
+          "質問文の「use / ai」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The students used an AI tool for ideas about titles.",
+        "translation": "見出しの案を得るためです。"
+      },
+      {
+        "question": "What wrong information did the AI add?",
+        "questionKeywords": [
+          "information",
+          "ai",
+          "add"
+        ],
+        "answerPatterns": [
+          "the basketball team won a city contest",
+          "basketball",
+          "basketball team",
+          "team won",
+          "won",
+          "city",
+          "city contest",
+          "contest"
+        ],
+        "hints": [
+          "質問文の「information / ai / add」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "One title said the basketball team won a city contest.",
+        "translation": "バスケットボール部が市大会で優勝したという情報です。"
+      },
+      {
+        "question": "How many rules did the students make?",
+        "questionKeywords": [
+          "rules",
+          "make"
+        ],
+        "answerPatterns": [
+          "three rules",
+          "made three",
+          "three",
+          "rules"
+        ],
+        "hints": [
+          "質問文の「rules / make」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The students made three rules.",
+        "translation": "生徒は3つのルールを作りました。"
+      },
+      {
+        "question": "What did a student rewrite?",
+        "questionKeywords": [
+          "rewrite"
+        ],
+        "answerPatterns": [
+          "unclear sentences",
+          "unclear",
+          "rewrote unclear",
+          "sentences"
+        ],
+        "hints": [
+          "質問文の「rewrite」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "A student rewrote unclear sentences.",
+        "translation": "不明確な文を書き直しました。"
+      },
+      {
+        "question": "What did the students learn?",
+        "questionKeywords": [
+          "learn"
+        ],
+        "answerPatterns": [
+          "must check",
+          "check",
+          "check information",
+          "information",
+          "information before",
+          "before",
+          "publish"
+        ],
+        "hints": [
+          "質問文の「learn」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "People must check information before they publish it.",
+        "translation": "公開前に人が情報を確認する必要があると学びました。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "Why did the students use AI?",
+        "choices": [
+          "to get ideas for titles",
+          "to translate every article",
+          "to choose the newspaper members",
+          "to check basketball scores"
+        ],
+        "answer": "to get ideas for titles",
+        "evidence": "The students used an AI tool for ideas about titles.",
+        "explanation": "この問題は理由を尋ねています。本文の「The students used an AI tool for ideas about titles.」から、答えは「to get ideas for titles」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What wrong information did the AI add?",
+        "choices": [
+          "The basketball team won a city contest.",
+          "The team had lost its first game.",
+          "The final game had been canceled.",
+          "The team had never entered the competition."
+        ],
+        "answer": "The basketball team won a city contest.",
+        "evidence": "One title said the basketball team won a city contest.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「One title said the basketball team won a city contest.」から、答えは「The basketball team won a city contest.」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How many rules did the students make?",
+        "choices": [
+          "three rules",
+          "two rules",
+          "four rules",
+          "five rules"
+        ],
+        "answer": "three rules",
+        "evidence": "The students made three rules.",
+        "explanation": "この問題は数・量を尋ねています。本文の「The students made three rules.」から、答えは「three rules」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did a student rewrite?",
+        "choices": [
+          "unclear sentences",
+          "which students had used tablets",
+          "how long each article had taken",
+          "why the final issue was late"
+        ],
+        "answer": "unclear sentences",
+        "evidence": "A student rewrote unclear sentences.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「A student rewrote unclear sentences.」から、答えは「unclear sentences」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did the students learn?",
+        "choices": [
+          "People must check information before publishing it.",
+          "AI should make every final decision.",
+          "Fast information is always reliable.",
+          "AI should never be used for creative work."
+        ],
+        "answer": "People must check information before publishing it.",
+        "evidence": "People must check information before they publish it.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「People must check information before they publish it.」から、答えは「People must check information before publishing it.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j3_004",
+    "level": "中3",
+    "title": "A Park for More People",
+    "genre": "地域社会",
+    "passage": "The city wanted to rebuild Green Park. The park had not changed for thirty years. Junior high school students studied the first plan. It had many stairs, narrow paths, and only two benches.\n\nThe students talked with parents, older people, and wheelchair users. Parents wanted a safe place for small children. Older people wanted more shade. Wheelchair users wanted wider paths.\n\nThe students suggested wide paths, six places to rest, and new play equipment. The city could not use every idea because of the cost. It agreed to make the main paths wider and add four places to rest.\n\nThe students learned that different people can find different problems in the same place.",
+    "translation": "市はグリーン公園を改修したいと考えました。公園は30年間変わっていませんでした。中学生が最初の計画を調べると、階段が多く、道が狭く、ベンチは2つだけでした。\n\n生徒は保護者、高齢者、車いす利用者と話しました。保護者は幼児の安全な場所、高齢者は日陰、車いす利用者は広い道を望みました。\n\n生徒は広い道、6か所の休憩場所、新しい遊具を提案しました。費用のため全案は使えませんでしたが、市は主要な道を広げ、休憩場所を4つ増やしました。\n\n同じ場所でも人によって異なる問題が見つかると学びました。",
+    "notes": [
+      {
+        "word": "wheelchair user",
+        "meaning": "車いす利用者"
+      },
+      {
+        "word": "shade",
+        "meaning": "日陰"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "地域社会",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "地域社会",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「wheelchair user」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "多様な利用者の声を聞くことで誰もが使いやすい公園を計画したこと",
+        "生徒の意見を調べて10代が利用しやすい図書館にしたこと",
+        "事実と記憶を区別しながら地域の物語を伝える価値",
+        "信頼できる調査結果を使って給食の食品廃棄を減らしたこと"
+      ],
+      "answer": "多様な利用者の声を聞くことで誰もが使いやすい公園を計画したこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "設計の問題、利用者への聞き取り、提案と採用された改善",
+        "図書館の問題、アンケート調査、新コーナーの完成",
+        "地図作成、確認困難への対応、地域への効果",
+        "原因調査、データに基づく提案、実験結果と学び"
+      ],
+      "answer": "設計の問題、利用者への聞き取り、提案と採用された改善",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "How long had the park stayed the same?",
+        "questionKeywords": [
+          "park",
+          "stayed",
+          "same"
+        ],
+        "answerPatterns": [
+          "for thirty years",
+          "park",
+          "green park",
+          "thirty",
+          "thirty years",
+          "years"
+        ],
+        "hints": [
+          "質問文の「park / stayed / same」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The park had not changed for thirty years.",
+        "translation": "公園は30年間変わっていませんでした。"
+      },
+      {
+        "question": "Who did the students talk with?",
+        "questionKeywords": [
+          "talk"
+        ],
+        "answerPatterns": [
+          "parents older people and wheelchair users",
+          "talked",
+          "parents",
+          "parents older",
+          "older",
+          "older people",
+          "wheelchair",
+          "wheelchair users"
+        ],
+        "hints": [
+          "質問文の「talk」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The students talked with parents, older people, and wheelchair users.",
+        "translation": "保護者、高齢者、車いす利用者と話しました。"
+      },
+      {
+        "question": "What did older people want?",
+        "questionKeywords": [
+          "older",
+          "people",
+          "want"
+        ],
+        "answerPatterns": [
+          "more shade",
+          "parents wanted",
+          "older",
+          "older people",
+          "wanted more",
+          "more",
+          "shade",
+          "users wanted"
+        ],
+        "hints": [
+          "質問文の「older / people / want」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Older people wanted more shade.",
+        "translation": "高齢者はもっと日陰を望みました。"
+      },
+      {
+        "question": "Which ideas did the city use?",
+        "questionKeywords": [
+          "ideas",
+          "city",
+          "use"
+        ],
+        "answerPatterns": [
+          "city",
+          "not use",
+          "use every",
+          "idea",
+          "every idea",
+          "idea because",
+          "main",
+          "main paths"
+        ],
+        "hints": [
+          "質問文の「ideas / city / use」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "It agreed to make the main paths wider and add four places to rest.",
+        "translation": "主要な道を広げ、休憩場所を4つ増やす案です。"
+      },
+      {
+        "question": "What did the students learn?",
+        "questionKeywords": [
+          "learn"
+        ],
+        "answerPatterns": [
+          "different people can find different problems",
+          "different",
+          "different people",
+          "find",
+          "find different",
+          "different problems",
+          "problems"
+        ],
+        "hints": [
+          "質問文の「learn」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The students learned that different people can find different problems in the same place.",
+        "translation": "人によって異なる問題が見つかると学びました。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "How long had the park stayed the same?",
+        "choices": [
+          "for thirty years",
+          "for ten years",
+          "for twenty years",
+          "for fifty years"
+        ],
+        "answer": "for thirty years",
+        "evidence": "The park had not changed for thirty years.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「The park had not changed for thirty years.」から、答えは「for thirty years」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Who did the students talk with?",
+        "choices": [
+          "parents, older people, and wheelchair users",
+          "shop owners, teachers, and tourists",
+          "children, athletes, and city workers",
+          "doctors, drivers, and restaurant owners"
+        ],
+        "answer": "parents, older people, and wheelchair users",
+        "evidence": "The students talked with parents, older people, and wheelchair users.",
+        "explanation": "この問題は人物を尋ねています。本文の「The students talked with parents, older people, and wheelchair users.」から、答えは「parents, older people, and wheelchair users」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did older people want?",
+        "choices": [
+          "more shade",
+          "more playground equipment",
+          "wider parking spaces",
+          "an earlier closing time"
+        ],
+        "answer": "more shade",
+        "evidence": "Older people wanted more shade.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Older people wanted more shade.」から、答えは「more shade」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Which ideas did the city use?",
+        "choices": [
+          "wider main paths and four resting places",
+          "six resting places and all the playground equipment",
+          "only new playground equipment",
+          "more stairs and narrower paths"
+        ],
+        "answer": "wider main paths and four resting places",
+        "evidence": "It agreed to make the main paths wider and add four places to rest.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「It agreed to make the main paths wider and add four places to rest.」から、答えは「wider main paths and four resting places」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did the students learn?",
+        "choices": [
+          "Different people can find different problems.",
+          "The average visitor should decide everything.",
+          "Public parks should be designed only for children.",
+          "The cheapest design is always the best one."
+        ],
+        "answer": "Different people can find different problems.",
+        "evidence": "The students learned that different people can find different problems in the same place.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「The students learned that different people can find different problems in the same place.」から、答えは「Different people can find different problems.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "j3_005",
+    "level": "中3",
+    "title": "The Story in the Photograph",
+    "genre": "物語文",
+    "passage": "Mei found an old photograph in a box at her grandmother's house. It showed a young woman with a bicycle. The woman was Mei's grandmother.\n\nHer grandmother said the picture was from a trip across Japan. At age twenty, she wanted to travel alone by bicycle. Her parents said the trip was dangerous. However, she saved money and prepared for one year.\n\nThe trip lasted six weeks. One day, her bicycle wheel broke. A local family helped her and took the photograph.\n\nMei always thought her grandmother was quiet and careful. After hearing the story, Mei saw her in a new way. The photograph showed her grandmother's brave choice.",
+    "translation": "メイは祖母の家の箱の中で古い写真を見つけました。写真には自転車と若い女性が写っており、その女性は祖母でした。\n\n祖母は日本横断旅行の写真だと話しました。20歳の時、一人で自転車旅行をしたいと考えました。両親は危険だと言いましたが、祖母はお金を貯め、1年間準備しました。\n\n旅は6週間続きました。ある日、自転車の車輪が壊れ、地域の家族が助けて写真を撮りました。\n\nメイは祖母を静かで慎重な人だと思っていました。話を聞いた後、新しい見方をするようになりました。写真は祖母の勇気ある選択を示していました。",
+    "notes": [
+      {
+        "word": "photograph",
+        "meaning": "写真"
+      },
+      {
+        "word": "wheel",
+        "meaning": "車輪"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "物語文",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "物語文",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「photograph」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "古い写真をきっかけにメイが祖母の勇気ある過去を知ったこと",
+        "ユイが落とし物の持ち主を確かめてかばんを返したこと",
+        "失敗したアヤが落ち着いてやり直し最後までスピーチしたこと",
+        "見慣れた日常にも新しい発見があること"
+      ],
+      "answer": "古い写真をきっかけにメイが祖母の勇気ある過去を知ったこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "写真の発見、祖母の旅の説明、メイの祖母への見方の変化",
+        "かばんを発見、持ち主を待つ、中身を確認して返す",
+        "大会の準備、本番での失敗、再挑戦と気づき",
+        "電車で着席、男性が景色を示す、レンの見方の変化"
+      ],
+      "answer": "写真の発見、祖母の旅の説明、メイの祖母への見方の変化",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "Where did Mei find the photograph?",
+        "questionKeywords": [
+          "mei",
+          "find",
+          "photograph"
+        ],
+        "answerPatterns": [
+          "in a box",
+          "mei",
+          "mei found",
+          "found",
+          "photograph",
+          "old photograph",
+          "box"
+        ],
+        "hints": [
+          "質問文の「mei / find / photograph」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Mei found an old photograph in a box at her grandmother's house.",
+        "translation": "メイは箱の中で写真を見つけました。"
+      },
+      {
+        "question": "How old was her grandmother at the time?",
+        "questionKeywords": [
+          "old",
+          "grandmother",
+          "time"
+        ],
+        "answerPatterns": [
+          "grandmother",
+          "twenty",
+          "age twenty"
+        ],
+        "hints": [
+          "質問文の「old / grandmother / time」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "At age twenty, she wanted to travel alone by bicycle.",
+        "translation": "祖母は20歳でした。"
+      },
+      {
+        "question": "How long did she prepare for the trip?",
+        "questionKeywords": [
+          "prepare",
+          "trip"
+        ],
+        "answerPatterns": [
+          "for one year",
+          "trip",
+          "one",
+          "one year",
+          "year",
+          "trip lasted"
+        ],
+        "hints": [
+          "質問文の「prepare / trip」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "However, she saved money and prepared for one year.",
+        "translation": "1年間準備しました。"
+      },
+      {
+        "question": "Who helped her with the broken bicycle?",
+        "questionKeywords": [
+          "helped",
+          "broken",
+          "bicycle"
+        ],
+        "answerPatterns": [
+          "a local family",
+          "bicycle",
+          "bicycle wheel",
+          "local",
+          "local family",
+          "family",
+          "family helped",
+          "helped"
+        ],
+        "hints": [
+          "質問文の「helped / broken / bicycle」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "A local family helped her and took the photograph.",
+        "translation": "地域の家族が助けました。"
+      },
+      {
+        "question": "How did the story change Mei?",
+        "questionKeywords": [
+          "story",
+          "change",
+          "mei"
+        ],
+        "answerPatterns": [
+          "mei",
+          "mei always",
+          "grandmother",
+          "story",
+          "story mei",
+          "mei saw",
+          "saw",
+          "new"
+        ],
+        "hints": [
+          "質問文の「story / change / mei」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "After hearing the story, Mei saw her in a new way.",
+        "translation": "祖母を新しい見方で見るようになりました。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "Where did Mei find the photograph?",
+        "choices": [
+          "in a box",
+          "inside an old book",
+          "under a bedroom table",
+          "behind a picture on the wall"
+        ],
+        "answer": "in a box",
+        "evidence": "Mei found an old photograph in a box at her grandmother's house.",
+        "explanation": "この問題は場所を尋ねています。本文の「Mei found an old photograph in a box at her grandmother's house.」から、答えは「in a box」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How old was her grandmother at the time?",
+        "choices": [
+          "twenty years old",
+          "sixteen years old",
+          "eighteen years old",
+          "twenty-five years old"
+        ],
+        "answer": "twenty years old",
+        "evidence": "At age twenty, she wanted to travel alone by bicycle.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「At age twenty, she wanted to travel alone by bicycle.」から、答えは「twenty years old」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How long did she prepare for the trip?",
+        "choices": [
+          "for one year",
+          "for six weeks",
+          "for six months",
+          "for two years"
+        ],
+        "answer": "for one year",
+        "evidence": "However, she saved money and prepared for one year.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「However, she saved money and prepared for one year.」から、答えは「for one year」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Who helped her with the broken bicycle?",
+        "choices": [
+          "a local family",
+          "her parents",
+          "a hotel worker",
+          "another traveler"
+        ],
+        "answer": "a local family",
+        "evidence": "A local family helped her and took the photograph.",
+        "explanation": "この問題は人物を尋ねています。本文の「A local family helped her and took the photograph.」から、答えは「a local family」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How did the story change Mei?",
+        "choices": [
+          "She saw her grandmother in a new way.",
+          "It made her want to travel immediately.",
+          "It made her angry with her family.",
+          "It proved that her grandmother was careless."
+        ],
+        "answer": "She saw her grandmother in a new way.",
+        "evidence": "After hearing the story, Mei saw her in a new way.",
+        "explanation": "この問題は方法や変化を尋ねています。本文の「After hearing the story, Mei saw her in a new way.」から、答えは「She saw her grandmother in a new way.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "exam_001",
+    "level": "入試",
+    "title": "The Value of Repair",
+    "genre": "SDGs・環境",
+    "passage": "When electronic devices break, many people replace them immediately. This habit creates waste and requires new resources. A repair café in one city offers another choice.\n\nVolunteers with technical skills meet visitors once a month. Instead of simply fixing items, they explain each step so owners can learn. Some devices cannot be saved, but visitors can still discover why the devices failed.\n\nThe café measures success not only by the number of repaired objects but also by the knowledge shared. Its approach suggests that a sustainable society depends on changing both products and people's relationship with them.",
+    "translation": "電子機器が壊れると、多くの人はすぐに買い替えます。この習慣は廃棄物を生み、新しい資源を必要とします。ある市の修理カフェは別の選択肢を示しています。\n\n技術を持つボランティアが月1回、訪問者と会います。単に直すのではなく、持ち主が学べるよう各手順を説明します。直せない場合でも、なぜ機器が故障したのかを知ることができます。\n\nカフェは修理できた物の数だけでなく、共有された知識によっても成功を測ります。持続可能な社会には、製品だけでなく、人と製品との関係も変える必要があると示しています。",
+    "notes": [
+      {
+        "word": "resource",
+        "meaning": "資源"
+      },
+      {
+        "word": "sustainable",
+        "meaning": "持続可能な"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "SDGs・環境",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "SDGs・環境",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「resource」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "修理と知識共有が持続可能な社会につながること",
+        "生徒たちが調査と地域への働きかけで川のごみを減らしたこと",
+        "信頼できる調査結果を使って給食の食品廃棄を減らしたこと",
+        "他人の期待ではなく自分で職業を探究する大切さ"
+      ],
+      "answer": "修理と知識共有が持続可能な社会につながること",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "廃棄問題、修理カフェの方法、成功の新しい尺度",
+        "ごみの調査、ポスターと回収箱、結果と今後の活動",
+        "原因調査、データに基づく提案、実験結果と学び",
+        "従来の夢、新しい職業との出会い、考え方の変化"
+      ],
+      "answer": "廃棄問題、修理カフェの方法、成功の新しい尺度",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "How often do volunteers meet visitors?",
+        "questionKeywords": [
+          "volunteers",
+          "meet",
+          "visitors"
+        ],
+        "answerPatterns": [
+          "once a month",
+          "volunteers",
+          "meet",
+          "skills meet",
+          "meet visitors",
+          "visitors",
+          "visitors once",
+          "once"
+        ],
+        "hints": [
+          "質問文の「volunteers / meet / visitors」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Volunteers with technical skills meet visitors once a month.",
+        "translation": "技術を持つボランティアは月1回訪問者と会います。"
+      },
+      {
+        "question": "Why do volunteers explain each step?",
+        "questionKeywords": [
+          "explain",
+          "each",
+          "step"
+        ],
+        "answerPatterns": [
+          "so owners can learn",
+          "explain",
+          "explain each",
+          "each",
+          "each step",
+          "step",
+          "step so",
+          "owners"
+        ],
+        "hints": [
+          "質問文の「explain / each / step」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Instead of simply fixing items, they explain each step so owners can learn.",
+        "translation": "持ち主が学べるよう各手順を説明します。"
+      },
+      {
+        "question": "What can visitors learn from items that cannot be saved?",
+        "questionKeywords": [
+          "items",
+          "cannot",
+          "saved"
+        ],
+        "answerPatterns": [
+          "why the devices failed",
+          "items",
+          "fixing items",
+          "devices",
+          "devices cannot",
+          "cannot",
+          "cannot be",
+          "saved"
+        ],
+        "hints": [
+          "質問文の「items / cannot / saved」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Some devices cannot be saved, but visitors can still discover why the devices failed.",
+        "translation": "訪問者はなぜ機器が故障したかを知ります。"
+      },
+      {
+        "question": "How does the café measure success?",
+        "questionKeywords": [
+          "cafe",
+          "measure",
+          "success"
+        ],
+        "answerPatterns": [
+          "cafe",
+          "cafe measures",
+          "success",
+          "measures success",
+          "success not",
+          "repaired",
+          "repaired objects",
+          "knowledge"
+        ],
+        "hints": [
+          "質問文の「cafe / measure / success」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The café measures success not only by the number of repaired objects but also by the knowledge shared.",
+        "translation": "修理数だけでなく共有された知識でも成功を測ります。"
+      },
+      {
+        "question": "What does a sustainable society require?",
+        "questionKeywords": [
+          "sustainable",
+          "society",
+          "require"
+        ],
+        "answerPatterns": [
+          "sustainable",
+          "sustainable society",
+          "society",
+          "society depends",
+          "changing",
+          "changing both",
+          "products",
+          "both products"
+        ],
+        "hints": [
+          "質問文の「sustainable / society / require」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Its approach suggests that a sustainable society depends on changing both products and people's relationship with them.",
+        "translation": "持続可能な社会には製品と人との関係の両方を変える必要があります。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "How often do volunteers meet visitors?",
+        "choices": [
+          "once a month",
+          "once a week",
+          "twice a month",
+          "every weekend"
+        ],
+        "answer": "once a month",
+        "evidence": "Volunteers with technical skills meet visitors once a month.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「Volunteers with technical skills meet visitors once a month.」から、答えは「once a month」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Why do volunteers explain each step?",
+        "choices": [
+          "so owners can learn",
+          "to finish repairs faster",
+          "to sell new devices",
+          "to collect broken items"
+        ],
+        "answer": "so owners can learn",
+        "evidence": "Instead of simply fixing items, they explain each step so owners can learn.",
+        "explanation": "この問題は理由を尋ねています。本文の「Instead of simply fixing items, they explain each step so owners can learn.」から、答えは「so owners can learn」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What can visitors learn from items that cannot be saved?",
+        "choices": [
+          "why the devices failed",
+          "how to replace the devices",
+          "where the devices were made",
+          "how much new devices cost"
+        ],
+        "answer": "why the devices failed",
+        "evidence": "Some devices cannot be saved, but visitors can still discover why the devices failed.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Some devices cannot be saved, but visitors can still discover why the devices failed.」から、答えは「why the devices failed」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How does the café measure success?",
+        "choices": [
+          "by repairs and knowledge shared",
+          "only by the number of repairs",
+          "by the money visitors pay",
+          "by the number of new volunteers"
+        ],
+        "answer": "by repairs and knowledge shared",
+        "evidence": "The café measures success not only by the number of repaired objects but also by the knowledge shared.",
+        "explanation": "この問題は方法や変化を尋ねています。本文の「The café measures success not only by the number of repaired objects but also by the knowledge shared.」から、答えは「by repairs and knowledge shared」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What does a sustainable society require?",
+        "choices": [
+          "changing products and people's relationship with them",
+          "buying newer products more often",
+          "using fewer technical skills",
+          "replacing every broken device"
+        ],
+        "answer": "changing products and people's relationship with them",
+        "evidence": "Its approach suggests that a sustainable society depends on changing both products and people's relationship with them.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Its approach suggests that a sustainable society depends on changing both products and people's relationship with them.」から、答えは「changing products and people's relationship with them」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "exam_002",
+    "level": "入試",
+    "title": "Choosing a Path",
+    "genre": "将来の夢",
+    "passage": "Mai wanted to become a doctor because everyone praised the idea. During a career week, however, she joined a workshop led by a medical illustrator who creates images for textbooks and hospitals.\n\nThe work combined science with art, two subjects Mai had always enjoyed. She worried that choosing an unfamiliar career might disappoint her family, so she interviewed the illustrator about training and employment.\n\nMai did not make a final decision that week. Yet she learned that exploring a career seriously is different from following an image of success created by others.",
+    "translation": "マイは、周囲の人がその考えをほめてくれるため、医師になりたいと思っていました。しかし職業週間に、教科書や病院で使う絵を制作する医学イラストレーターの講座に参加しました。\n\nその仕事は、マイが以前から好きだった理科と美術を組み合わせるものでした。あまり知られていない職業を選ぶと家族を失望させるかもしれないと心配し、必要な訓練や就職について質問しました。\n\nその週に最終決定はしませんでしたが、真剣に職業を探ることは、他人が作った成功のイメージに従うこととは違うと学びました。",
+    "notes": [
+      {
+        "word": "illustrator",
+        "meaning": "イラストレーター"
+      },
+      {
+        "word": "employment",
+        "meaning": "雇用"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "将来の夢",
+        "学校生活",
+        "部活動",
+        "異文化理解"
+      ],
+      "answer": "将来の夢",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「illustrator」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "他人の期待ではなく自分で職業を探究する大切さ",
+        "祖父の店を手伝うソウタがパン職人を目指していること",
+        "修理と知識共有が持続可能な社会につながること",
+        "事実と記憶を区別しながら地域の物語を伝える価値"
+      ],
+      "answer": "他人の期待ではなく自分で職業を探究する大切さ",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "従来の夢、新しい職業との出会い、考え方の変化",
+        "祖父の店、土曜日の手伝い、将来の夢",
+        "廃棄問題、修理カフェの方法、成功の新しい尺度",
+        "地図作成、確認困難への対応、地域への効果"
+      ],
+      "answer": "従来の夢、新しい職業との出会い、考え方の変化",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "Why did Mai want to become a doctor?",
+        "questionKeywords": [
+          "want",
+          "become",
+          "doctor"
+        ],
+        "answerPatterns": [
+          "because everyone praised the idea",
+          "mai wanted",
+          "become",
+          "doctor",
+          "doctor because",
+          "because",
+          "because everyone",
+          "everyone"
+        ],
+        "hints": [
+          "質問文の「want / become / doctor」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Mai wanted to become a doctor because everyone praised the idea.",
+        "translation": "皆がその考えをほめたので医師を目指しました。"
+      },
+      {
+        "question": "Who led the workshop?",
+        "questionKeywords": [
+          "led",
+          "workshop"
+        ],
+        "answerPatterns": [
+          "a medical illustrator",
+          "workshop",
+          "workshop led",
+          "led",
+          "led by",
+          "medical",
+          "medical illustrator",
+          "illustrator"
+        ],
+        "hints": [
+          "質問文の「led / workshop」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "During a career week, however, she joined a workshop led by a medical illustrator who creates images for textbooks and hospitals.",
+        "translation": "医学イラストレーターが講座を担当しました。"
+      },
+      {
+        "question": "What two subjects did the work combine?",
+        "questionKeywords": [
+          "subjects",
+          "work",
+          "combine"
+        ],
+        "answerPatterns": [
+          "work",
+          "work combined",
+          "science",
+          "combined science",
+          "art",
+          "art two",
+          "subjects",
+          "two subjects"
+        ],
+        "hints": [
+          "質問文の「subjects / work / combine」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The work combined science with art, two subjects Mai had always enjoyed.",
+        "translation": "その仕事は理科と美術を組み合わせます。"
+      },
+      {
+        "question": "What did Mai ask about?",
+        "questionKeywords": [
+          "mai",
+          "ask",
+          "about"
+        ],
+        "answerPatterns": [
+          "training and employment",
+          "mai",
+          "subjects mai",
+          "about",
+          "illustrator about",
+          "about training",
+          "training",
+          "employment"
+        ],
+        "hints": [
+          "質問文の「mai / ask / about」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "She worried that choosing an unfamiliar career might disappoint her family, so she interviewed the illustrator about training and employment.",
+        "translation": "研修と雇用について尋ねました。"
+      },
+      {
+        "question": "What did Mai learn?",
+        "questionKeywords": [
+          "mai",
+          "learn"
+        ],
+        "answerPatterns": [
+          "mai",
+          "career",
+          "career seriously",
+          "following",
+          "image",
+          "success",
+          "success created",
+          "others"
+        ],
+        "hints": [
+          "質問文の「mai / learn」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Yet she learned that exploring a career seriously is different from following an image of success created by others.",
+        "translation": "真剣な職業探究は他人の成功像に従うこととは違います。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "Why did Mai want to become a doctor?",
+        "choices": [
+          "because everyone praised the idea",
+          "because she had always enjoyed science",
+          "because her family needed a doctor",
+          "because a doctor had visited her school"
+        ],
+        "answer": "because everyone praised the idea",
+        "evidence": "Mai wanted to become a doctor because everyone praised the idea.",
+        "explanation": "この問題は理由を尋ねています。本文の「Mai wanted to become a doctor because everyone praised the idea.」から、答えは「because everyone praised the idea」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Who led the workshop?",
+        "choices": [
+          "a medical illustrator",
+          "a science teacher",
+          "a hospital doctor",
+          "a textbook writer"
+        ],
+        "answer": "a medical illustrator",
+        "evidence": "During a career week, however, she joined a workshop led by a medical illustrator who creates images for textbooks and hospitals.",
+        "explanation": "この問題は人物を尋ねています。本文の「During a career week, however, she joined a workshop led by a medical illustrator who creates images for textbooks and hospitals.」から、答えは「a medical illustrator」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What two subjects did the work combine?",
+        "choices": [
+          "science and art",
+          "science and music",
+          "art and history",
+          "English and science"
+        ],
+        "answer": "science and art",
+        "evidence": "The work combined science with art, two subjects Mai had always enjoyed.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「The work combined science with art, two subjects Mai had always enjoyed.」から、答えは「science and art」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did Mai ask about?",
+        "choices": [
+          "training and employment",
+          "salary and working hours",
+          "textbooks and hospitals",
+          "science and art classes"
+        ],
+        "answer": "training and employment",
+        "evidence": "She worried that choosing an unfamiliar career might disappoint her family, so she interviewed the illustrator about training and employment.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「She worried that choosing an unfamiliar career might disappoint her family, so she interviewed the illustrator about training and employment.」から、答えは「training and employment」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did Mai learn?",
+        "choices": [
+          "Career exploration differs from following others' image of success.",
+          "A popular career is always the best choice.",
+          "A final decision should be made quickly.",
+          "Family expectations should decide a career."
+        ],
+        "answer": "Career exploration differs from following others' image of success.",
+        "evidence": "Yet she learned that exploring a career seriously is different from following an image of success created by others.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Yet she learned that exploring a career seriously is different from following an image of success created by others.」から、答えは「Career exploration differs from following others' image of success.」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "exam_003",
+    "level": "入試",
+    "title": "When Maps Tell Stories",
+    "genre": "地域社会",
+    "passage": "A coastal town wanted visitors to notice places beyond its famous beach. Local students created a digital map featuring small shops, historic wells, and stories told by older residents.\n\nThey soon faced a problem: some stories could not be confirmed. Rather than deleting them, the students labeled them as local memories and added verified historical information beside them.\n\nThe map attracted visitors, but its greater value was bringing generations together. It showed that community history includes both documented facts and memories, as long as readers understand the difference.",
+    "translation": "海辺の町は、有名な浜辺以外の場所にも観光客の目を向けたいと考えました。地域の生徒たちは、小さな店、歴史ある井戸、高齢の住民が語った話を載せたデジタル地図を作りました。\n\nやがて、一部の話は事実かどうか確認できないという問題が生じました。生徒たちは削除するのではなく、「地域の記憶」と表示し、その隣に確認済みの歴史情報を加えました。\n\n地図は観光客を引き付けましたが、さらに大きな価値は世代を結び付けたことでした。読者が違いを理解していれば、記録された事実と人々の記憶の両方が地域の歴史になると示しました。",
+    "notes": [
+      {
+        "word": "feature",
+        "meaning": "取り上げる"
+      },
+      {
+        "word": "verified",
+        "meaning": "確認された"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "地域社会",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "地域社会",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「feature」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "事実と記憶を区別しながら地域の物語を伝える価値",
+        "生徒の意見を調べて10代が利用しやすい図書館にしたこと",
+        "多様な利用者の声を聞くことで誰もが使いやすい公園を計画したこと",
+        "修理と知識共有が持続可能な社会につながること"
+      ],
+      "answer": "事実と記憶を区別しながら地域の物語を伝える価値",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "地図作成、確認困難への対応、地域への効果",
+        "図書館の問題、アンケート調査、新コーナーの完成",
+        "設計の問題、利用者への聞き取り、提案と採用された改善",
+        "廃棄問題、修理カフェの方法、成功の新しい尺度"
+      ],
+      "answer": "地図作成、確認困難への対応、地域への効果",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "What did the town want visitors to notice?",
+        "questionKeywords": [
+          "want",
+          "visitors",
+          "notice"
+        ],
+        "answerPatterns": [
+          "places beyond its famous beach",
+          "town wanted",
+          "wanted visitors",
+          "visitors",
+          "notice",
+          "notice places",
+          "places",
+          "places beyond"
+        ],
+        "hints": [
+          "質問文の「want / visitors / notice」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "A coastal town wanted visitors to notice places beyond its famous beach.",
+        "translation": "有名な浜以外の場所にも注目してほしいと考えました。"
+      },
+      {
+        "question": "Who told stories for the map?",
+        "questionKeywords": [
+          "told",
+          "stories",
+          "map"
+        ],
+        "answerPatterns": [
+          "older residents",
+          "map",
+          "digital map",
+          "map featuring",
+          "stories",
+          "stories told",
+          "told by",
+          "older"
+        ],
+        "hints": [
+          "質問文の「told / stories / map」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Local students created a digital map featuring small shops, historic wells, and stories told by older residents.",
+        "translation": "高齢の住民が地図のために話をしました。"
+      },
+      {
+        "question": "How were unconfirmed stories labeled?",
+        "questionKeywords": [
+          "unconfirmed",
+          "stories",
+          "labeled"
+        ],
+        "answerPatterns": [
+          "as local memories",
+          "stories",
+          "labeled",
+          "labeled them",
+          "local",
+          "as local",
+          "local memories",
+          "memories"
+        ],
+        "hints": [
+          "質問文の「unconfirmed / stories / labeled」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Rather than deleting them, the students labeled them as local memories and added verified historical information beside them.",
+        "translation": "生徒は未確認の話を地域の記憶と表示しました。"
+      },
+      {
+        "question": "What was the map's greater value?",
+        "questionKeywords": [
+          "map's",
+          "greater",
+          "value"
+        ],
+        "answerPatterns": [
+          "bringing generations together",
+          "greater",
+          "greater value",
+          "value",
+          "bringing",
+          "bringing generations",
+          "generations",
+          "generations together"
+        ],
+        "hints": [
+          "質問文の「map's / greater / value」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The map attracted visitors, but its greater value was bringing generations together.",
+        "translation": "より大きな価値は世代を結びつけたことです。"
+      },
+      {
+        "question": "What must readers understand?",
+        "questionKeywords": [
+          "must",
+          "readers",
+          "understand"
+        ],
+        "answerPatterns": [
+          "facts",
+          "documented facts",
+          "memories",
+          "memories as",
+          "readers",
+          "as readers",
+          "readers understand",
+          "understand"
+        ],
+        "hints": [
+          "質問文の「must / readers / understand」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "It showed that community history includes both documented facts and memories, as long as readers understand the difference.",
+        "translation": "読者は記録された事実と記憶の違いを理解する必要があります。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "What did the town want visitors to notice?",
+        "choices": [
+          "places beyond its famous beach",
+          "only its famous beach",
+          "new hotels near the station",
+          "sports facilities by the sea"
+        ],
+        "answer": "places beyond its famous beach",
+        "evidence": "A coastal town wanted visitors to notice places beyond its famous beach.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「A coastal town wanted visitors to notice places beyond its famous beach.」から、答えは「places beyond its famous beach」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Who told stories for the map?",
+        "choices": [
+          "older residents",
+          "local shop owners",
+          "visiting tourists",
+          "city officials"
+        ],
+        "answer": "older residents",
+        "evidence": "Local students created a digital map featuring small shops, historic wells, and stories told by older residents.",
+        "explanation": "この問題は人物を尋ねています。本文の「Local students created a digital map featuring small shops, historic wells, and stories told by older residents.」から、答えは「older residents」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How were unconfirmed stories labeled?",
+        "choices": [
+          "as local memories",
+          "as verified facts",
+          "as tourist information",
+          "as students' opinions"
+        ],
+        "answer": "as local memories",
+        "evidence": "Rather than deleting them, the students labeled them as local memories and added verified historical information beside them.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Rather than deleting them, the students labeled them as local memories and added verified historical information beside them.」から、答えは「as local memories」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What was the map's greater value?",
+        "choices": [
+          "bringing generations together",
+          "increasing the number of shops",
+          "replacing the town's old records",
+          "making the beach more famous"
+        ],
+        "answer": "bringing generations together",
+        "evidence": "The map attracted visitors, but its greater value was bringing generations together.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「The map attracted visitors, but its greater value was bringing generations together.」から、答えは「bringing generations together」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What must readers understand?",
+        "choices": [
+          "the difference between facts and memories",
+          "the difference between shops and wells",
+          "the difference between visitors and residents",
+          "the difference between old and new maps"
+        ],
+        "answer": "the difference between facts and memories",
+        "evidence": "It showed that community history includes both documented facts and memories, as long as readers understand the difference.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「It showed that community history includes both documented facts and memories, as long as readers understand the difference.」から、答えは「the difference between facts and memories」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "exam_004",
+    "level": "入試",
+    "title": "The Limits of Translation Apps",
+    "genre": "AI・ICT",
+    "passage": "Translation apps allow travelers to communicate quickly, but speed can hide important limits. Expressions of humor, politeness, and emotion often depend on context that software cannot fully recognize.\n\nIn an international online project, students used an app for first drafts, then compared the results with their intended meanings. They found several sentences that were grammatically correct but sounded cold or demanding.\n\nThe students revised those messages together. They concluded that technology can build a bridge between languages, but human attention is needed to decide how others may feel when crossing it.",
+    "translation": "翻訳アプリは素早い意思疎通を可能にしますが、速さは限界を隠します。ユーモア、丁寧さ、感情は文脈に依存し、ソフトが完全には認識できません。\n\n国際オンライン企画で、生徒は下書きにアプリを使い意図と比較しました。文法的には正しくても冷たく命令的な文がありました。\n\n一緒に修正し、技術は言語間の橋を作れるが、渡る相手の気持ちを考えるには人の注意が必要だと結論づけました。",
+    "notes": [
+      {
+        "word": "context",
+        "meaning": "文脈"
+      },
+      {
+        "word": "demanding",
+        "meaning": "命令的な"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "AI・ICT",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "AI・ICT",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「context」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "翻訳技術には人間による文脈と感情の確認が必要なこと",
+        "ナオの動画と相談所が生徒のタブレット利用を助けたこと",
+        "AIを活用するときも人が情報の正確さに責任を持つ必要があること",
+        "修理と知識共有が持続可能な社会につながること"
+      ],
+      "answer": "翻訳技術には人間による文脈と感情の確認が必要なこと",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "翻訳アプリの利点と限界、比較実験、結論",
+        "タブレットの問題、ナオの支援、利用者数の変化",
+        "AIで作業を効率化、誤情報を発見、利用ルールと教訓",
+        "廃棄問題、修理カフェの方法、成功の新しい尺度"
+      ],
+      "answer": "翻訳アプリの利点と限界、比較実験、結論",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "What can speed hide?",
+        "questionKeywords": [
+          "speed",
+          "hide"
+        ],
+        "answerPatterns": [
+          "important limits",
+          "speed",
+          "hide",
+          "hide important",
+          "important",
+          "limits"
+        ],
+        "hints": [
+          "質問文の「speed / hide」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Translation apps allow travelers to communicate quickly, but speed can hide important limits.",
+        "translation": "速さは重要な限界を隠すことがあります。"
+      },
+      {
+        "question": "What does software not fully recognize?",
+        "questionKeywords": [
+          "not",
+          "fully",
+          "recognize"
+        ],
+        "answerPatterns": [
+          "context",
+          "fully",
+          "cannot fully",
+          "fully recognize",
+          "recognize"
+        ],
+        "hints": [
+          "質問文の「not / fully / recognize」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Expressions of humor, politeness, and emotion often depend on context that software cannot fully recognize.",
+        "translation": "ソフトウェアは文脈を完全には認識できません。"
+      },
+      {
+        "question": "What did students use the app for?",
+        "questionKeywords": [
+          "use",
+          "app"
+        ],
+        "answerPatterns": [
+          "first drafts",
+          "app",
+          "drafts",
+          "drafts then"
+        ],
+        "hints": [
+          "質問文の「use / app」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "In an international online project, students used an app for first drafts, then compared the results with their intended meanings.",
+        "translation": "生徒は最初の下書きにアプリを使いました。"
+      },
+      {
+        "question": "How did some correct sentences sound?",
+        "questionKeywords": [
+          "correct",
+          "sentences",
+          "sound"
+        ],
+        "answerPatterns": [
+          "cold or demanding",
+          "sentences",
+          "several sentences",
+          "correct",
+          "grammatically correct",
+          "sounded",
+          "sounded cold",
+          "cold"
+        ],
+        "hints": [
+          "質問文の「correct / sentences / sound」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "They found several sentences that were grammatically correct but sounded cold or demanding.",
+        "translation": "冷たく、または命令的に聞こえました。"
+      },
+      {
+        "question": "What is needed in addition to technology?",
+        "questionKeywords": [
+          "needed",
+          "addition",
+          "technology"
+        ],
+        "answerPatterns": [
+          "human attention",
+          "technology",
+          "human",
+          "attention",
+          "needed"
+        ],
+        "hints": [
+          "質問文の「needed / addition / technology」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "They concluded that technology can build a bridge between languages, but human attention is needed to decide how others may feel when crossing it.",
+        "translation": "相手の気持ちを考えるには人間の注意が必要です。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "What can speed hide?",
+        "choices": [
+          "important limits",
+          "the speed of communication",
+          "the number of languages",
+          "the cost of traveling"
+        ],
+        "answer": "important limits",
+        "evidence": "Translation apps allow travelers to communicate quickly, but speed can hide important limits.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Translation apps allow travelers to communicate quickly, but speed can hide important limits.」から、答えは「important limits」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What does software not fully recognize?",
+        "choices": [
+          "context",
+          "grammar rules",
+          "individual words",
+          "the writer's age"
+        ],
+        "answer": "context",
+        "evidence": "Expressions of humor, politeness, and emotion often depend on context that software cannot fully recognize.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「Expressions of humor, politeness, and emotion often depend on context that software cannot fully recognize.」から、答えは「context」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What did students use the app for?",
+        "choices": [
+          "first drafts",
+          "final messages",
+          "grammar practice",
+          "recording conversations"
+        ],
+        "answer": "first drafts",
+        "evidence": "In an international online project, students used an app for first drafts, then compared the results with their intended meanings.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「In an international online project, students used an app for first drafts, then compared the results with their intended meanings.」から、答えは「first drafts」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How did some correct sentences sound?",
+        "choices": [
+          "cold or demanding",
+          "friendly and natural",
+          "unclear but polite",
+          "warm and humorous"
+        ],
+        "answer": "cold or demanding",
+        "evidence": "They found several sentences that were grammatically correct but sounded cold or demanding.",
+        "explanation": "この問題は方法や変化を尋ねています。本文の「They found several sentences that were grammatically correct but sounded cold or demanding.」から、答えは「cold or demanding」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What is needed in addition to technology?",
+        "choices": [
+          "human attention",
+          "faster software",
+          "more language choices",
+          "a stronger internet connection"
+        ],
+        "answer": "human attention",
+        "evidence": "They concluded that technology can build a bridge between languages, but human attention is needed to decide how others may feel when crossing it.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「They concluded that technology can build a bridge between languages, but human attention is needed to decide how others may feel when crossing it.」から、答えは「human attention」だと分かります。"
+      }
+    ]
+  },
+  {
+    "id": "exam_005",
+    "level": "入試",
+    "title": "A Seat by the Window",
+    "genre": "物語文",
+    "passage": "On a crowded train, Ren noticed an empty window seat beside an elderly man. Ren sat down and immediately opened his book, hoping not to be disturbed.\n\nA few minutes later, the man quietly pointed outside. A group of cranes was flying above the river. Ren had traveled this route for years but had never looked up at that place.\n\nThey spoke only briefly before the man left. For the rest of the journey, Ren kept his book closed. The unexpected conversation had reminded him that familiar scenes may still contain things we have not learned to see.",
+    "translation": "混んだ電車で、レンは高齢の男性の隣に空いている窓側の席を見つけました。邪魔されたくないと思い、座るとすぐに本を開きました。\n\n数分後、男性が静かに外を指しました。川の上を鶴の群れが飛んでいました。レンは何年もこの路線を利用していましたが、その場所で空を見上げたことはありませんでした。\n\n男性が降りるまで二人が話したのはわずかな時間でした。レンは残りの道のりで本を閉じたままにしました。思いがけない会話によって、見慣れた景色にも、まだ見方を知らないものがあると思い出したのです。",
+    "notes": [
+      {
+        "word": "crane",
+        "meaning": "鶴"
+      },
+      {
+        "word": "familiar",
+        "meaning": "見慣れた"
+      }
+    ],
+    "step1": {
+      "question": "設問と注釈から考えると、この長文のテーマは何ですか？",
+      "choices": [
+        "物語文",
+        "学校生活",
+        "部活動",
+        "将来の夢"
+      ],
+      "answer": "物語文",
+      "hints": [
+        "注釈の語と設問に繰り返し出る内容を見よう。",
+        "「crane」が関係するジャンルを考えよう。"
+      ]
+    },
+    "step2": {
+      "question": "最初と最後の段落から、この英文が一番伝えたいことは何だと考えられますか？",
+      "choices": [
+        "見慣れた日常にも新しい発見があること",
+        "ユイが落とし物の持ち主を確かめてかばんを返したこと",
+        "失敗したアヤが落ち着いてやり直し最後までスピーチしたこと",
+        "古い写真をきっかけにメイが祖母の勇気ある過去を知ったこと"
+      ],
+      "answer": "見慣れた日常にも新しい発見があること",
+      "hints": [
+        "最初の問題提起と最後の学びをつなげよう。",
+        "最後の段落で筆者が強調している変化に注目しよう。"
+      ]
+    },
+    "step3": {
+      "question": "STEP5の設問から、本文はどのような流れだと予想できますか？",
+      "choices": [
+        "電車で着席、男性が景色を示す、レンの見方の変化",
+        "かばんを発見、持ち主を待つ、中身を確認して返す",
+        "大会の準備、本番での失敗、再挑戦と気づき",
+        "写真の発見、祖母の旅の説明、メイの祖母への見方の変化"
+      ],
+      "answer": "電車で着席、男性が景色を示す、レンの見方の変化",
+      "hints": [
+        "設問を上から順に並べ、時間や話題の変化を見よう。",
+        "最初の設問と最後の設問の違いに注目しよう。"
+      ]
+    },
+    "step4": [
+      {
+        "question": "Where was the empty seat?",
+        "questionKeywords": [
+          "empty",
+          "seat"
+        ],
+        "answerPatterns": [
+          "beside an elderly man",
+          "empty",
+          "empty window",
+          "seat",
+          "window seat",
+          "seat beside",
+          "beside",
+          "elderly"
+        ],
+        "hints": [
+          "質問文の「empty / seat」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "On a crowded train, Ren noticed an empty window seat beside an elderly man.",
+        "translation": "空いた窓側席は高齢男性の隣でした。"
+      },
+      {
+        "question": "Why did Ren open his book?",
+        "questionKeywords": [
+          "ren",
+          "open",
+          "book"
+        ],
+        "answerPatterns": [
+          "ren",
+          "train ren",
+          "ren noticed",
+          "ren sat",
+          "opened",
+          "immediately opened",
+          "book",
+          "book hoping"
+        ],
+        "hints": [
+          "質問文の「ren / open / book」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Ren sat down and immediately opened his book, hoping not to be disturbed.",
+        "translation": "邪魔されたくないと思って本を開きました。"
+      },
+      {
+        "question": "What was flying above the river?",
+        "questionKeywords": [
+          "flying",
+          "above",
+          "river"
+        ],
+        "answerPatterns": [
+          "a group of cranes",
+          "group",
+          "cranes",
+          "flying",
+          "flying above",
+          "above",
+          "river"
+        ],
+        "hints": [
+          "質問文の「flying / above / river」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "A group of cranes was flying above the river.",
+        "translation": "鶴の群れが川の上を飛んでいました。"
+      },
+      {
+        "question": "How long had Ren traveled the route?",
+        "questionKeywords": [
+          "ren",
+          "traveled",
+          "route"
+        ],
+        "answerPatterns": [
+          "for years",
+          "ren",
+          "traveled",
+          "route",
+          "years"
+        ],
+        "hints": [
+          "質問文の「ren / traveled / route」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "Ren had traveled this route for years but had never looked up at that place.",
+        "translation": "レンは何年もこの路線を使っていました。"
+      },
+      {
+        "question": "Why did Ren keep his book closed?",
+        "questionKeywords": [
+          "keep",
+          "book",
+          "closed"
+        ],
+        "answerPatterns": [
+          "book",
+          "book closed",
+          "closed",
+          "familiar",
+          "familiar scenes"
+        ],
+        "hints": [
+          "質問文の「keep / book / closed」に注目しよう。",
+          "同じ語や、形が変わった語を本文から探そう。",
+          "答えがありそうな場所へ導く単語・短い語句を選ぼう。"
+        ],
+        "translationTarget": "The unexpected conversation had reminded him that familiar scenes may still contain things we have not learned to see.",
+        "translation": "見慣れた景色にもまだ見えていないものがあると気づいたからです。"
+      }
+    ],
+    "step5": [
+      {
+        "type": "choice",
+        "question": "Where was the empty seat?",
+        "choices": [
+          "beside an elderly man",
+          "across from an elderly man",
+          "near the train door",
+          "beside a young boy"
+        ],
+        "answer": "beside an elderly man",
+        "evidence": "On a crowded train, Ren noticed an empty window seat beside an elderly man.",
+        "explanation": "この問題は場所を尋ねています。本文の「On a crowded train, Ren noticed an empty window seat beside an elderly man.」から、答えは「beside an elderly man」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Why did Ren open his book?",
+        "choices": [
+          "he hoped not to be disturbed",
+          "to prepare for school",
+          "to learn about the river",
+          "to show the book to the man"
+        ],
+        "answer": "he hoped not to be disturbed",
+        "evidence": "Ren sat down and immediately opened his book, hoping not to be disturbed.",
+        "explanation": "この問題は理由を尋ねています。本文の「Ren sat down and immediately opened his book, hoping not to be disturbed.」から、答えは「he hoped not to be disturbed」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "What was flying above the river?",
+        "choices": [
+          "a group of cranes",
+          "a group of ducks",
+          "a small airplane",
+          "several white clouds"
+        ],
+        "answer": "a group of cranes",
+        "evidence": "A group of cranes was flying above the river.",
+        "explanation": "この問題は本文中の具体的な内容を尋ねています。本文の「A group of cranes was flying above the river.」から、答えは「a group of cranes」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "How long had Ren traveled the route?",
+        "choices": [
+          "for years",
+          "for a few weeks",
+          "for several months",
+          "since the previous year"
+        ],
+        "answer": "for years",
+        "evidence": "Ren had traveled this route for years but had never looked up at that place.",
+        "explanation": "この問題は時・期間を尋ねています。本文の「Ren had traveled this route for years but had never looked up at that place.」から、答えは「for years」だと分かります。"
+      },
+      {
+        "type": "choice",
+        "question": "Why did Ren keep his book closed?",
+        "choices": [
+          "He began noticing the familiar scene.",
+          "He wanted to finish the book later.",
+          "He was waiting for the man to return.",
+          "He had become tired during the journey."
+        ],
+        "answer": "He began noticing the familiar scene.",
+        "evidence": "The unexpected conversation had reminded him that familiar scenes may still contain things we have not learned to see.",
+        "explanation": "この問題は理由を尋ねています。本文の「The unexpected conversation had reminded him that familiar scenes may still contain things we have not learned to see.」から、答えは「He began noticing the familiar scene.」だと分かります。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+export const schoolGradeOverrides = {
+  j1_001: {
+    passage: "Ken is a junior high school student. His favorite subject is English. He has English on Monday morning.\n\nAfter lunch, Ken plays soccer with his friends. At four, he plays the guitar in the music room.\n\nKen is busy on Mondays, but he likes the day. He can study, play sports, and enjoy music at school.",
+    translation: "ケンは中学生です。いちばん好きな教科は英語です。月曜日の朝に英語の授業があります。\n\n昼食後、ケンは友達とサッカーをします。4時に音楽室へ行き、そこでギターを弾きます。\n\nケンは月曜日は忙しいですが、その日が好きです。学校で勉強し、スポーツをし、音楽を楽しめます。",
+    notes: [["favorite", "いちばん好きな"], ["music room", "音楽室"]],
+    facts: [
+      ["What is Ken's favorite subject?", "English", "His favorite subject is English.", "ケンのいちばん好きな教科は英語です。"],
+      ["Where does Ken play the guitar?", "in the music room", "At four, he plays the guitar in the music room.", "ケンは音楽室でギターを弾きます。"],
+      ["Why does Ken like Mondays?", "He can enjoy many things at school.", "He can study, play sports, and enjoy music at school.", "学校で多くのことを楽しめるからです。"],
+    ],
+  },
+  j1_002: {
+    passage: "Mika is on the school basketball team. The team practices on Tuesday and Friday. Mika is short, but she can run fast.\n\nThis Saturday, the team has its first game. Mika's mother and brother will watch the game. Mika wants to score many points.\n\nHer coach says, “Pass the ball and play together.” Mika says yes. She wants to help her team.",
+    translation: "ミカは学校のバスケットボール部に入っています。チームは火曜日と金曜日に練習します。ミカは背が低いですが、速く走れます。\n\n今週の土曜日、チームは初めての試合をします。ミカの母と弟が試合を見ます。ミカはたくさん得点したいと思っています。\n\nコーチは「ボールをパスして、一緒にプレーしなさい」と言います。ミカは返事をし、チームを助けたいと思います。",
+    notes: [["team", "チーム"], ["point", "得点"]],
+    facts: [
+      ["When does the team practice?", "on Tuesday and Friday", "The team practices on Tuesday and Friday.", "チームは火曜日と金曜日に練習します。"],
+      ["Who will watch the game?", "Mika's mother and brother", "Mika's mother and brother will watch the game.", "ミカの母と弟が試合を見ます。"],
+      ["What does the coach say?", "pass the ball and play together", "Her coach says, “Pass the ball and play together.”", "ボールをパスし、一緒にプレーするよう言います。"],
+    ],
+  },
+  j1_003: {
+    passage: "Sota loves bread. His grandfather has a small bread shop near the station. Many people come to the shop in the morning.\n\nSota helps there every Saturday. He puts bread in bags. He also cleans the tables. His grandfather makes apple bread with him.\n\nSota wants to be a baker. He wants to make good bread for many people.",
+    translation: "ソウタはパンが大好きです。祖父は駅の近くに小さなパン屋を持っています。朝には多くの人が店に来ます。\n\nソウタは毎週土曜日にそこで手伝います。パンを袋に入れ、テーブルも掃除します。祖父はソウタと一緒にアップルパンを作ります。\n\nソウタはパン職人になりたいと思っています。多くの人のためにおいしいパンを作りたいのです。",
+    notes: [["bread shop", "パン屋"], ["baker", "パン職人"]],
+    facts: [
+      ["Where is the bread shop?", "near the station", "His grandfather has a small bread shop near the station.", "パン屋は駅の近くにあります。"],
+      ["What bread does Sota make with his grandfather?", "apple bread", "His grandfather makes apple bread with him.", "祖父とアップルパンを作ります。"],
+      ["What does Sota want to be?", "a baker", "Sota wants to be a baker.", "ソウタはパン職人になりたいです。"],
+    ],
+  },
+  j1_004: {
+    passage: "Anika is a new student in Yuki's class. She is from India. On Friday, Anika brings curry and bread for lunch.\n\nAnika's family eats curry on Sundays. Anika eats the bread with curry. Yuki wants to try it.\n\nNext week, Yuki will bring rice balls. The two girls want to talk about food in India and Japan.",
+    translation: "アニカはユキのクラスの新しい生徒です。インド出身です。金曜日、昼食にカレーとパンを持ってきます。\n\nアニカの家族は日曜日にカレーを食べます。アニカはパンをカレーと一緒に食べます。ユキも食べてみたいと思います。\n\n次の週、ユキはおにぎりを持ってくる予定です。二人はインドと日本の食べ物について話したいと思っています。",
+    notes: [["India", "インド"], ["rice ball", "おにぎり"]],
+    facts: [
+      ["Where is Anika from?", "India", "She is from India.", "アニカはインド出身です。"],
+      ["When does Anika's family eat curry?", "on Sundays", "Anika's family eats curry on Sundays.", "アニカの家族は日曜日にカレーを食べます。"],
+      ["What will Yuki bring next week?", "rice balls", "Next week, Yuki will bring rice balls.", "ユキは次の週におにぎりを持ってきます。"],
+    ],
+  },
+  j1_005: {
+    passage: "Yui goes to the park after school. She finds a blue bag under a bench. A picture book and a red cap are in it.\n\nYui waits for twenty minutes. Then a little boy comes with his father. The boy is looking for a blue bag.\n\nThe boy says his book and cap are in the bag. Yui gives the bag to him. The boy smiles, and Yui feels happy.",
+    translation: "ユイは放課後に公園へ行きます。ベンチの下で青いかばんを見つけます。中には絵本と赤い帽子があります。\n\nユイは20分待ちます。すると小さな男の子が父親と来ます。男の子は青いかばんを探しています。\n\n男の子は「中に本と帽子があります」と言います。ユイはかばんを渡します。男の子は笑い、ユイはうれしくなります。",
+    notes: [["bench", "ベンチ"], ["cap", "帽子"]],
+    facts: [
+      ["What is in the blue bag?", "a picture book and a red cap", "A picture book and a red cap are in it.", "青いかばんには絵本と赤い帽子があります。"],
+      ["How long does Yui wait?", "for twenty minutes", "Yui waits for twenty minutes.", "ユイは20分待ちます。"],
+      ["Why does Yui give the bag to the boy?", "He knows the things in the bag.", "The boy says his book and cap are in the bag.", "男の子がかばんの中身を知っていたからです。"],
+    ],
+  },
+  j2_001: {
+    passage: "Last spring, Emi's class studied a river near their school. The students found many bottles and bags by the river. They counted 126 pieces of trash in three places.\n\nThe class made posters and put them in local stores. They also asked the city for two new trash boxes. For one month, the students checked the river every Friday.\n\nAt the end of the month, they found 78 pieces of trash. The number was smaller, but the river was not clean yet. The class decided to work there again in summer.",
+    translation: "昨年の春、エミのクラスは学校近くの川を調べました。川のそばで多くのボトルや袋を見つけ、3か所で126個のごみを数えました。\n\nクラスはポスターを作って地域の店に貼り、市に新しいごみ箱を2つ頼みました。1か月間、毎週金曜日に川を確認しました。\n\n月末にはごみは78個でした。数は減りましたが、川はまだきれいではありません。クラスは夏にまた活動することにしました。",
+    notes: [["trash", "ごみ"], ["local", "地域の"]],
+    facts: [
+      ["How many pieces of trash did the students first find?", "126 pieces", "They counted 126 pieces of trash in three places.", "最初に126個のごみを見つけました。"],
+      ["Where did the class put its posters?", "in local stores", "The class made posters and put them in local stores.", "地域の店にポスターを置きました。"],
+      ["How often did the students check the river?", "every Friday", "For one month, the students checked the river every Friday.", "毎週金曜日に川を確認しました。"],
+      ["What will the class do next?", "work at the river again in summer", "The class decided to work there again in summer.", "夏にまた川で活動します。"],
+    ],
+  },
+  j2_002: {
+    passage: "Riku often studied at the town library. However, few junior high school students came there. Riku wanted a place for students of his age.\n\nHe and his friends asked 60 students about the library. Most students wanted tables for group study. Some students wanted books about sports and music.\n\nTwo months later, the library opened a new corner. It had two large tables and 200 new books. Students could work together there. Now many of Riku's classmates use the library after school.",
+    translation: "リクは町の図書館でよく勉強しました。しかし、中学生はほとんど来ませんでした。リクは同年代の生徒のための場所を望みました。\n\nリクと友達は60人の生徒に図書館について尋ねました。多くはグループ学習用の机を望み、スポーツや音楽の本を求める生徒もいました。\n\n2か月後、図書館は新しいコーナーを開きました。大きな机が2つと新しい本が200冊ありました。生徒はそこで一緒に学習できます。今では多くの同級生が放課後に利用します。",
+    notes: [["group study", "グループ学習"], ["corner", "コーナー"]],
+    facts: [
+      ["Why did Riku want a new space?", "Few junior high school students used the library.", "However, few junior high school students came there.", "図書館を利用する中学生が少なかったからです。"],
+      ["How many students answered the questions?", "60 students", "He and his friends asked 60 students about the library.", "60人の生徒が質問に答えました。"],
+      ["What did most students want?", "tables for group study", "Most students wanted tables for group study.", "多くの生徒はグループ学習用の机を望みました。"],
+      ["What can students do in the new corner?", "work together", "Students could work together there.", "新しいコーナーで一緒に学習できます。"],
+    ],
+  },
+  j2_003: {
+    passage: "Nao's school started using tablets last September. Students read class papers and sent homework with them. Some students forgot their passwords. Other students could not find the right files.\n\nNao liked computers, so she made three short videos. Each video was under two minutes. She also helped students in the library on Tuesday and Thursday.\n\nAt first, fifteen students came each week. Two months later, only five or six students came. Nao was happy. The smaller number showed that more students could use their tablets.",
+    translation: "ナオの学校は昨年9月にタブレットを使い始めました。生徒は授業のプリントを読んだり宿題を送ったりしました。パスワードを忘れる生徒や、正しいファイルを見つけられない生徒がいました。\n\nナオはコンピューターが好きだったので、短い動画を3本作りました。各動画は2分未満でした。火曜日と木曜日には図書館で生徒を助けました。\n\n最初は週に15人が来ました。2か月後には5、6人だけになりました。より多くの生徒がタブレットを使えるようになったと分かり、ナオは喜びました。",
+    notes: [["tablet", "タブレット"], ["password", "パスワード"]],
+    facts: [
+      ["What did some students forget?", "their passwords", "Some students forgot their passwords.", "一部の生徒はパスワードを忘れました。"],
+      ["How long was each video?", "under two minutes", "Each video was under two minutes.", "各動画は2分未満でした。"],
+      ["When did Nao help students?", "on Tuesday and Thursday", "She also helped students in the library on Tuesday and Thursday.", "火曜日と木曜日に助けました。"],
+      ["Why was Nao happy?", "More students could use their tablets.", "The smaller number showed that more students could use their tablets.", "より多くの生徒がタブレットを使えるようになったからです。"],
+    ],
+  },
+  j2_004: {
+    passage: "Haru became captain of the tennis team in April. He wanted the team to win. During practice, he gave many orders. Some younger players stopped asking questions.\n\nThe coach said, “A captain must listen, too.” Haru started a ten-minute meeting after practice. Every player talked about one good point and one problem.\n\nOne first-year player had an idea for a new warm-up. The idea helped the team. Haru learned an important lesson. Listening to other players can make a team stronger.",
+    translation: "ハルは4月にテニス部の部長になりました。チームに勝ってほしくて、練習中に多くの指示を出しました。下級生の中には質問をしなくなる人もいました。\n\nコーチは「部長も聞かなければならない」と言いました。ハルは練習後に10分間のミーティングを始めました。全員が良かった点と問題点を一つずつ話しました。\n\n1年生が新しい準備運動の案を出し、その案はチームの役に立ちました。ハルは、ほかの選手の話を聞くとチームが強くなると学びました。",
+    notes: [["captain", "部長・主将"], ["order", "指示"]],
+    facts: [
+      ["What happened to some younger players?", "They stopped asking questions.", "Some younger players stopped asking questions.", "一部の下級生は質問をしなくなりました。"],
+      ["How long was each meeting?", "ten minutes", "Haru started a ten-minute meeting after practice.", "各ミーティングは10分間でした。"],
+      ["Who had an idea for a new warm-up?", "a first-year player", "One first-year player had an idea for a new warm-up.", "1年生の選手が新しい準備運動を考えました。"],
+      ["What did Haru learn?", "Listening can make a team stronger.", "Listening to other players can make a team stronger.", "人の話を聞くとチームが強くなると学びました。"],
+    ],
+  },
+  j2_005: {
+    passage: "Aya practiced for an English speech contest for three weeks. She knew her speech, but she was very nervous on the contest day.\n\nIn front of the audience, Aya forgot the first line. She could not speak for a few seconds. Then she saw her teacher smile. Aya took a deep breath and started again.\n\nThis time, she spoke slowly and finished the speech. She did not win, but many people clapped. Aya was proud because she did not give up.",
+    translation: "アヤは3週間、英語スピーチ大会の練習をしました。スピーチは覚えていましたが、大会当日はとても緊張していました。\n\n聴衆の前で最初の一文を忘れ、数秒間話せませんでした。すると先生がほほえむのが見えました。アヤは深呼吸して、もう一度始めました。\n\n今度はゆっくり話し、最後まで終えました。優勝はしませんでしたが、多くの人が拍手しました。諦めなかったのでアヤは誇らしく感じました。",
+    notes: [["speech contest", "スピーチ大会"], ["clap", "拍手する"]],
+    facts: [
+      ["How long did Aya practice?", "for three weeks", "Aya practiced for an English speech contest for three weeks.", "アヤは3週間練習しました。"],
+      ["What did Aya forget?", "the first line", "Aya forgot the first line.", "アヤは最初の一文を忘れました。"],
+      ["What did Aya do after seeing her teacher smile?", "She took a deep breath and started again.", "Aya took a deep breath and started again.", "深呼吸してもう一度始めました。"],
+      ["Why was Aya proud?", "She did not give up.", "Aya was proud because she did not give up.", "諦めなかったからです。"],
+    ],
+  },
+  j3_001: {
+    passage: "A lot of food from school lunches was thrown away at Yuna's school. Yuna wanted to know why. She and four classmates asked 180 students about their lunch.\n\nThe answers showed that the amount of food was the biggest problem. Younger students often got too much food. Yuna's group suggested two serving sizes. They also made a table for unopened bread and milk.\n\nThe school tried the plan for one month. Food waste went down by thirty percent. The kitchen workers also found which dishes students often left.\n\nYuna learned that ideas are more useful when they are supported by good information.",
+    translation: "ユナの学校では、給食の多くの食べ物が捨てられていました。理由を知るため、ユナと4人の同級生は180人に昼食について尋ねました。\n\n回答から、食事の量が最大の問題だと分かりました。下級生は多すぎる量を受け取ることがありました。ユナたちは量を2種類にし、未開封のパンや牛乳を置く台も作りました。\n\n学校は1か月間計画を試し、食品廃棄は30％減りました。調理員は残されやすい料理も知りました。\n\nユナは、よい情報に支えられた考えはより役立つと学びました。",
+    notes: [["food waste", "食品廃棄"], ["serving size", "一人分の量"]],
+    facts: [
+      ["How many students answered the questions?", "180 students", "She and four classmates asked 180 students about their lunch.", "180人の生徒が質問に答えました。"],
+      ["What was the biggest problem?", "the amount of food", "The answers showed that the amount of food was the biggest problem.", "最大の問題は食事の量でした。"],
+      ["What could students put on the table?", "unopened bread and milk", "They also made a table for unopened bread and milk.", "未開封のパンや牛乳を置けました。"],
+      ["How much did food waste go down?", "by thirty percent", "Food waste went down by thirty percent.", "食品廃棄は30％減りました。"],
+      ["What did Yuna learn?", "Good information makes ideas more useful.", "Yuna learned that ideas are more useful when they are supported by good information.", "よい情報は考えをより役立つものにすると学びました。"],
+    ],
+  },
+  j3_002: {
+    passage: "Kenta stayed with a family in Canada for three weeks. He had studied English for years. However, he sometimes had problems at dinner.\n\nHis host parents often asked what he wanted to eat. Kenta usually said, “Anything is fine.” He thought this was polite. His host family wanted to know his real choice, so they sometimes looked confused.\n\nHis host sister explained this to him. After that, Kenta clearly said what he wanted. He also asked other family members about their choices.\n\nKenta learned that people show respect in different ways. We should try to understand these differences.",
+    translation: "ケンタはカナダの家庭に3週間滞在しました。何年も英語を勉強していましたが、夕食時に問題が起こることがありました。\n\nホストペアレンツが食べたい物を尋ねると、ケンタは「何でもいいです」と答えました。丁寧だと思っていましたが、家族は本当の希望を知りたかったため困惑しました。\n\nホストシスターがこの違いを説明しました。その後、ケンタは希望をはっきり言い、家族の希望も尋ねました。\n\n人は異なる方法で敬意を示すので、その違いを理解しようとするべきだと学びました。",
+    notes: [["host family", "ホストファミリー"], ["choice", "選択・希望"]],
+    facts: [
+      ["How long did Kenta stay in Canada?", "for three weeks", "Kenta stayed with a family in Canada for three weeks.", "ケンタはカナダに3週間滞在しました。"],
+      ["Why did the host family look confused?", "They wanted to know Kenta's real choice.", "His host family wanted to know his real choice, so they sometimes looked confused.", "ケンタの本当の希望を知りたかったからです。"],
+      ["Who explained the difference to Kenta?", "his host sister", "His host sister explained this to him.", "ホストシスターが説明しました。"],
+      ["How did Kenta change?", "He clearly said what he wanted.", "After that, Kenta clearly said what he wanted.", "自分の希望をはっきり言うようになりました。"],
+      ["What did Kenta learn?", "People show respect in different ways.", "Kenta learned that people show respect in different ways.", "敬意の示し方は人によって異なると学びました。"],
+    ],
+  },
+  j3_003: {
+    passage: "The school newspaper team had one week to finish its last paper of the year. The students used an AI tool for ideas about titles. The tool gave them many ideas very quickly.\n\nMai checked the ideas and found a problem. One title said the basketball team won a city contest. In fact, the team only played in the final game. The AI added information that was not in the article.\n\nThe students made three rules. They checked every AI idea with the original article. A student rewrote unclear sentences. They also explained where they used AI.\n\nAI helped the team, but the students learned an important lesson. People must check information before they publish it.",
+    translation: "新聞委員会は年度最後の新聞を1週間で完成させる必要がありました。生徒は見出しの案を得るためAIを使い、すぐに多くの案を得ました。\n\nマイが案を確認すると問題がありました。ある見出しはバスケットボール部が市大会で優勝したと書きましたが、実際は決勝戦に出ただけでした。AIが記事にない情報を加えたのです。\n\n生徒は3つのルールを作りました。AIの案を元の記事と確認し、不明確な文は生徒が書き直し、AIを使った場所も説明しました。\n\nAIは役立ちましたが、情報を公開する前に人が確認しなければならないと学びました。",
+    notes: [["newspaper", "新聞"], ["publish", "公表する"]],
+    facts: [
+      ["Why did the students use AI?", "to get ideas for titles", "The students used an AI tool for ideas about titles.", "見出しの案を得るためです。"],
+      ["What wrong information did the AI add?", "The basketball team won a city contest.", "One title said the basketball team won a city contest.", "バスケットボール部が市大会で優勝したという情報です。"],
+      ["How many rules did the students make?", "three rules", "The students made three rules.", "生徒は3つのルールを作りました。"],
+      ["What did a student rewrite?", "unclear sentences", "A student rewrote unclear sentences.", "不明確な文を書き直しました。"],
+      ["What did the students learn?", "People must check information before publishing it.", "People must check information before they publish it.", "公開前に人が情報を確認する必要があると学びました。"],
+    ],
+  },
+  j3_004: {
+    passage: "The city wanted to rebuild Green Park. The park had not changed for thirty years. Junior high school students studied the first plan. It had many stairs, narrow paths, and only two benches.\n\nThe students talked with parents, older people, and wheelchair users. Parents wanted a safe place for small children. Older people wanted more shade. Wheelchair users wanted wider paths.\n\nThe students suggested wide paths, six places to rest, and new play equipment. The city could not use every idea because of the cost. It agreed to make the main paths wider and add four places to rest.\n\nThe students learned that different people can find different problems in the same place.",
+    translation: "市はグリーン公園を改修したいと考えました。公園は30年間変わっていませんでした。中学生が最初の計画を調べると、階段が多く、道が狭く、ベンチは2つだけでした。\n\n生徒は保護者、高齢者、車いす利用者と話しました。保護者は幼児の安全な場所、高齢者は日陰、車いす利用者は広い道を望みました。\n\n生徒は広い道、6か所の休憩場所、新しい遊具を提案しました。費用のため全案は使えませんでしたが、市は主要な道を広げ、休憩場所を4つ増やしました。\n\n同じ場所でも人によって異なる問題が見つかると学びました。",
+    notes: [["wheelchair user", "車いす利用者"], ["shade", "日陰"]],
+    facts: [
+      ["How long had the park stayed the same?", "for thirty years", "The park had not changed for thirty years.", "公園は30年間変わっていませんでした。"],
+      ["Who did the students talk with?", "parents, older people, and wheelchair users", "The students talked with parents, older people, and wheelchair users.", "保護者、高齢者、車いす利用者と話しました。"],
+      ["What did older people want?", "more shade", "Older people wanted more shade.", "高齢者はもっと日陰を望みました。"],
+      ["Which ideas did the city use?", "wider main paths and four resting places", "It agreed to make the main paths wider and add four places to rest.", "主要な道を広げ、休憩場所を4つ増やす案です。"],
+      ["What did the students learn?", "Different people can find different problems.", "The students learned that different people can find different problems in the same place.", "人によって異なる問題が見つかると学びました。"],
+    ],
+  },
+  j3_005: {
+    passage: "Mei found an old photograph in a box at her grandmother's house. It showed a young woman with a bicycle. The woman was Mei's grandmother.\n\nHer grandmother said the picture was from a trip across Japan. At age twenty, she wanted to travel alone by bicycle. Her parents said the trip was dangerous. However, she saved money and prepared for one year.\n\nThe trip lasted six weeks. One day, her bicycle wheel broke. A local family helped her and took the photograph.\n\nMei always thought her grandmother was quiet and careful. After hearing the story, Mei saw her in a new way. The photograph showed her grandmother's brave choice.",
+    translation: "メイは祖母の家の箱の中で古い写真を見つけました。写真には自転車と若い女性が写っており、その女性は祖母でした。\n\n祖母は日本横断旅行の写真だと話しました。20歳の時、一人で自転車旅行をしたいと考えました。両親は危険だと言いましたが、祖母はお金を貯め、1年間準備しました。\n\n旅は6週間続きました。ある日、自転車の車輪が壊れ、地域の家族が助けて写真を撮りました。\n\nメイは祖母を静かで慎重な人だと思っていました。話を聞いた後、新しい見方をするようになりました。写真は祖母の勇気ある選択を示していました。",
+    notes: [["photograph", "写真"], ["wheel", "車輪"]],
+    facts: [
+      ["Where did Mei find the photograph?", "in a box", "Mei found an old photograph in a box at her grandmother's house.", "メイは箱の中で写真を見つけました。"],
+      ["How old was her grandmother at the time?", "twenty years old", "At age twenty, she wanted to travel alone by bicycle.", "祖母は20歳でした。"],
+      ["How long did she prepare for the trip?", "for one year", "However, she saved money and prepared for one year.", "1年間準備しました。"],
+      ["Who helped her with the broken bicycle?", "a local family", "A local family helped her and took the photograph.", "地域の家族が助けました。"],
+      ["How did the story change Mei?", "She saw her grandmother in a new way.", "After hearing the story, Mei saw her in a new way.", "祖母を新しい見方で見るようになりました。"],
+    ],
+  },
+};
