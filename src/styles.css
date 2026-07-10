@@ -61,13 +61,85 @@ button:focus-visible { outline: 3px solid #efb04f; outline-offset: 2px; }
 .recent-records b { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .recent-records strong { font-size: 11px; }
 .empty-record { margin: 16px 0 4px; color: #758078; font-size: 12px; }
-.level-panel > p { margin: 15px 0 12px; color: #65736b; font-size: 12px; }
-.level-selector { display: grid; grid-template-columns: repeat(4, 1fr); gap: 9px; }
-.level-selector button { display: flex; flex-direction: column; align-items: center; gap: 4px; min-height: 84px; padding: 10px; color: var(--ink); background: #f7f9f7; border: 1px solid #cbd4ce; cursor: pointer; }
-.level-selector button:hover, .level-selector button.selected { color: white; background: var(--green); border-color: var(--green); }
-.level-selector b { font-size: 20px; }
-.level-selector span { font-size: 10px; font-weight: 700; opacity: .8; }
-.level-selector small { font-size: 9px; opacity: .68; }
+.level-panel { border-width: 2px; box-shadow: 0 16px 40px rgba(22, 65, 48, .09); }
+.level-panel > p {
+  margin: 15px 0 16px;
+  padding: 11px 13px;
+  color: #315243;
+  background: #edf6ef;
+  border: 1px solid #cfe2d5;
+  border-radius: 14px;
+  font-size: 13px;
+  font-weight: 800;
+}
+.level-selector { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+.level-selector button {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  min-height: 122px;
+  padding: 18px 12px 14px;
+  color: var(--ink);
+  background: linear-gradient(180deg, #ffffff 0%, #f2f8f4 100%);
+  border: 3px solid #8eb49b;
+  border-radius: 20px;
+  box-shadow: 0 10px 22px rgba(17, 72, 52, .12);
+  cursor: pointer;
+  transition: transform .14s ease, box-shadow .14s ease, border-color .14s ease, background .14s ease;
+}
+.level-selector button::after {
+  content: "ここを押す";
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 76px;
+  height: 23px;
+  padding: 0 10px;
+  color: #15563a;
+  background: #dff0e5;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: .04em;
+}
+.level-selector button:hover,
+.level-selector button:focus-visible {
+  transform: translateY(-3px);
+  border-color: var(--green);
+  box-shadow: 0 16px 30px rgba(17, 72, 52, .18);
+  outline: none;
+}
+.level-selector button.selected {
+  color: white;
+  background: linear-gradient(180deg, #176646 0%, var(--green) 100%);
+  border-color: #0d422e;
+  box-shadow: 0 18px 34px rgba(17, 72, 52, .24);
+}
+.level-selector button.selected::after {
+  content: "選択中";
+  color: #123923;
+  background: #fff0a6;
+}
+.level-selector b { font-size: 28px; line-height: 1; letter-spacing: -.03em; }
+.level-selector span { font-size: 12px; font-weight: 900; opacity: .9; }
+.level-selector small {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 54px;
+  height: 22px;
+  padding: 0 8px;
+  color: #355446;
+  background: rgba(255,255,255,.78);
+  border: 1px solid rgba(79, 118, 96, .22);
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 900;
+}
+.level-selector button.selected small { color: #123923; background: rgba(255,255,255,.9); }
 .level-materials { max-width: 1440px; margin: 0 auto; }
 .materials-heading { display: flex; align-items: baseline; gap: 14px; margin-bottom: 11px; }
 .materials-heading h2 { margin: 0; font-size: 21px; }
